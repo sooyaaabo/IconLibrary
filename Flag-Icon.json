@@ -1,0 +1,222 @@
+{
+    "name": "Emby Icon",
+    "description": "sooyaaabo（恩秀）",
+    "icons": [
+        {
+            "name": "Aladdin Alading",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Aladdin-01.png"
+        },
+        {
+            "name": "Aladdin Alading",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Aladdin-02.png"
+        },
+        {
+            "name": "AlphaTVOversea",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/AlphaTVOversea-01.png"
+        },
+        {
+            "name": "AlphaTVOversea",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/AlphaTVOversea-02.png"
+        },
+        {
+            "name": "ApopCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/ApopCloud.png"
+        },
+        {
+            "name": "AWATV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/AWATV.png"
+        },
+        {
+            "name": "CcEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/CcEmby.png"
+        },
+        {
+            "name": "CharonTV Karong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/CharonTV-01.png"
+        },
+        {
+            "name": "CharonTV Karong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/CharonTV-02.png"
+        },
+        {
+            "name": "ChilledWatermelon Xigua Daigua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/ChilledWatermelon.png"
+        },
+        {
+            "name": "DVFilm DaV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/DVFilm.png"
+        },
+        {
+            "name": "EmbyPlus Zhipianren",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/EmbyPlus-01.png"
+        },
+        {
+            "name": "EmbyPlus Zhipianren",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/EmbyPlus-02.png"
+        },
+        {
+            "name": "EmbyPlus Zhipianren",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/EmbyPlus-03.png"
+        },
+        {
+            "name": "EmbyPub Zhongdianzhan Zdz",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/EmbyPub.png"
+        },
+        {
+            "name": "FeiYueYinHe YHEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/FeiYueYinHe.png"
+        },
+        {
+            "name": "hkaEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/hkaEmby.png"
+        },
+        {
+            "name": "JellyfinPlus Shuimu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/JellyfinPlus.png"
+        },
+        {
+            "name": "JianShouQingn Jsq",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/JianShouQing.png"
+        },
+        {
+            "name": "LevildeLuminia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/LevildeLuminia-01.png"
+        },
+        {
+            "name": "LevildeLuminia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/LevildeLuminia-02.png"
+        },
+        {
+            "name": "LevildeLuminia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/LevildeLuminia-03.png"
+        },
+        {
+            "name": "LilyEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/LilyEmby.png"
+        },
+        {
+            "name": "MisakaF",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/MisakaF.png"
+        },
+        {
+            "name": "Misty",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Misty.png"
+        },
+        {
+            "name": "Nanflix Tiannanxiaozhu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Nanflix-01.png"
+        },
+        {
+            "name": "Nanflix Tiannanxiaozhu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Nanflix-02.png"
+        },
+        {
+            "name": "Nanflix Tiannanxiaozhu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Nanflix-03.png"
+        },
+        {
+            "name": "NijigenEmby Erciyuan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/NijigenEmby-01.png"
+        },
+        {
+            "name": "NijigenEmby Erciyuan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/NijigenEmby-02.png"
+        },
+        {
+            "name": "NyaMedia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/NyaMedia.png"
+        },
+        {
+            "name": "Paul",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Paul.png"
+        },
+        {
+            "name": "PeachEmby Taozi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PeachEmby-01.png"
+        },
+        {
+            "name": "PeachEmby Taozi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PeachEmby-02.png"
+        },
+        {
+            "name": "PiliPili",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PiliPili-01.png"
+        },
+        {
+            "name": "PiliPili",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PiliPili-02.png"
+        },
+        {
+            "name": "PiliPili",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PiliPili-03.png"
+        },
+        {
+            "name": "PlumberEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PlumberEmby-01.png"
+        },
+        {
+            "name": "PlumberEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PlumberEmby-02.png"
+        },
+        {
+            "name": "PlusEmby Laodakemi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PlusEmby-01.png"
+        },
+        {
+            "name": "PlusEmby Laodakemi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PlusEmby-02.png"
+        },
+        {
+            "name": "PrejudiceJellyfin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/PrejudiceJellyfin.png"
+        },
+        {
+            "name": "sfcjorg Feiyuemeitiku",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/sfcjorg-01.png"
+        },
+        {
+            "name": "sfcjorg Feiyuemeitiku",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/sfcjorg-02.png"
+        },
+        {
+            "name": "sfcjorg Feiyuemeitiku",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/sfcjorg-03.png"
+        },
+        {
+            "name": "TanHuaTV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/TanHuaTV.png"
+        },
+        {
+            "name": "Temby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Temby.png"
+        },
+        {
+            "name": "TreeDiagram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/TreeDiagram.png"
+        },
+        {
+            "name": "WorldLine Shoushushijiexian",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/WorldLine-01.png"
+        },
+        {
+            "name": "WorldLine Shoushushijiexian",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/WorldLine-02.png"
+        },
+        {
+            "name": "YomoEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/YomoEmby-01.png"
+        },
+        {
+            "name": "YomoEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/YomoEmby-02.png"
+        },
+        {
+            "name": "YourFYTing Fangyingting",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/YourFYTing-01.png"
+        },
+        {
+            "name": "YourFYTing Fangyingting",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/YourFYTing-02.png"
+        }
+    ]
+}
