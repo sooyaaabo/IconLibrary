@@ -360,7 +360,7 @@
         },
         {
             "name": "Bilibili",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App/BiliUniverse.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BiliUniverse.png"
         },
         {
             "name": "Ezviz",
@@ -583,12 +583,24 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Speedtest.png"
         },
         {
+            "name": "Meta",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Meta.png"
+        },
+        {
             "name": "Instagram",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-01.png"
         },
         {
             "name": "Instagram",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-02.png"
+        },
+        {
+            "name": "Threads",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Threads.png"
+        },
+        {
+            "name": "Messenger",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Messenger.png"
         },
         {
             "name": "X",
