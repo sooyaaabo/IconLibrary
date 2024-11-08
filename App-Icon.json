@@ -87,15 +87,15 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Hiddify-Green.png"
         },
         {
-            "name": "v2rayN-blue",
+            "name": "v2rayN",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/v2rayN-blue.png"
         },
         {
-            "name": "v2rayN-red",
+            "name": "v2rayN",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/v2rayN-red.png"
         },
         {
-            "name": "v2rayN-purple",
+            "name": "v2rayN",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/v2rayN-purple.png"
         },
         {
@@ -207,7 +207,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingTalk.png"
         },
         {
-            "name": "TikTok DouYin",
+            "name": "TikTok Douyin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok.png"
         },
         {
@@ -271,7 +271,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VVebo.png"
         },
         {
-            "name": "RedPaper XiaoHhongShu",
+            "name": "RedPaper Xiaohongshu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RedPaper.png"
         },
         {
@@ -287,11 +287,11 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Goofish.png"
         },
         {
-            "name": "JingDong",
+            "name": "Jingdong",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Jingdong.png"
         },
         {
-            "name": "CaiNiao",
+            "name": "Cainiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
         },
         {
@@ -339,8 +339,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IQIYI.png"
         },
         {
-            "name": "Youku",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Youku.png"
+            "name": "YoukuVideo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/YoukuVideo.png"
         },
         {
             "name": "MangoTV",
@@ -357,6 +357,10 @@
         {
             "name": "Bilibili",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BilibiliWhite.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App/BiliUniverse.png"
         },
         {
             "name": "Ezviz",
