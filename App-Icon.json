@@ -206,16 +206,20 @@
             "name": "DingTalk Dingding",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingTalk.png"
         },
+	{
+            "name": "TikTok Douyin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-01.png"
+        },
         {
             "name": "TikTok Douyin",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-02.png"
         },
         {
             "name": "AliyunDrive",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AliyunDrive.png"
         },
         {
-            "name": "BaiduNetdisk",
+            "name": "BaiduNetDisk",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png"
         },
         {
@@ -247,8 +251,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleDrive.png"
         },
         {
-            "name": "OneDrive",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/OneDrive.png"
+            "name": "MicrosoftOneDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftOneDrive.png"
         },
         {
             "name": "Amap Gaode",
@@ -271,8 +275,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VVebo.png"
         },
         {
-            "name": "RedPaper Xiaohongshu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RedPaper.png"
+            "name": "RedBook RedPaper Xiaohongshu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RedBook.png"
         },
         {
             "name": "Alipay Zhifubao",
@@ -398,6 +402,22 @@
             "name": "VidHub",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VidHub-02.png"
         },
+	{
+            "name": "Filmly",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-01.png"
+        },
+        {
+            "name": "Filmly Baomihua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-02.png"
+        },
+        {
+            "name": "Filmly Baomihua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-03.png"
+        },
+        {
+            "name": "HamHub",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HamHub.png"
+        },
         {
             "name": "Forward",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Forward.png"
@@ -519,6 +539,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Microsoft-03.png"
         },
         {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Microsoft-04.png"
+        },
+        {
             "name": "Windows",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Windows-01.png"
         },
@@ -531,8 +555,32 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Windows-03.png"
         },
         {
+            "name": "Windows",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Windows-04.png"
+        },
+	{
+            "name": "MicrosoftOffice365",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftOffice365.png"
+        },
+        {
             "name": "ChatGPT OpenAI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChatGPT.png"
+        },
+	{
+            "name": "Gemini",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini.png"
+        },
+        {
+            "name": "MicrosoftCopilot",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftCopilot.png"
+        },
+        {
+            "name": "Claude",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Claude.png"
+        },
+        {
+            "name": "Perplexity",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Perplexity.png"
         },
         {
             "name": "InternetExplorer",
@@ -570,6 +618,10 @@
             "name": "MicrosoftEdge",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftEdge.png"
         },
+	{
+            "name": "MicrosoftBingSearch",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftBingSearch.png"
+        },
         {
             "name": "Firefox",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Firefox.png"
@@ -599,6 +651,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-02.png"
         },
         {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Instagram-03.png"
+        },
+        {
             "name": "Threads",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Threads.png"
         },
@@ -607,12 +663,20 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Messenger.png"
         },
         {
-            "name": "X",
+            "name": "X Twitter",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/X-01.png"
         },
         {
-            "name": "X",
+            "name": "X Twitter",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/X-02.png"
+        },
+	{
+            "name": "X Twitter",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Twitter-01.png"
+        },
+        {
+            "name": "X Twitter",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Twitter-02.png"
         },
         {
             "name": "Telegram",
@@ -621,6 +685,10 @@
         {
             "name": "Telegram",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Telegram-02.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Telegram-03.png"
         },
         {
             "name": "Swiftgram",
@@ -656,7 +724,11 @@
         },
         {
             "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GitHub.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GitHub-01.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GitHub-02.png"
         },
         {
             "name": "GitLab",
