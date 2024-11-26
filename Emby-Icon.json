@@ -2,6 +2,22 @@
     "name": "Emby Icon",
     "description": "sooyaaabo（恩秀）",
     "icons": [
+	{
+            "name": "Alist",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Alist.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Emby.png"
+        },
+        {
+            "name": "Jellyfin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Jellyfin.png"
+        },
+        {
+            "name": "Plex",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Plex.png"
+        },
         {
             "name": "Aladdin Alading",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Aladdin-01.png"
