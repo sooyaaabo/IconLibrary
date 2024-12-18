@@ -226,7 +226,7 @@
             "name": "DingTalk Dingding",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingTalk.png"
         },
-	{
+        {
             "name": "TikTok Douyin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-01.png"
         },
@@ -422,7 +422,7 @@
             "name": "VidHub",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VidHub-02.png"
         },
-	{
+        {
             "name": "Filmly",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-01.png"
         },
@@ -497,6 +497,10 @@
         {
             "name": "Zhihu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhihu.png"
+        },
+        {
+            "name": "Fanshu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Fanshu.png"
         },
         {
             "name": "Ximalaya",
@@ -582,7 +586,7 @@
             "name": "Windows",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Windows-04.png"
         },
-	{
+        {
             "name": "MicrosoftOffice365",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftOffice365.png"
         },
@@ -590,7 +594,7 @@
             "name": "ChatGPT OpenAI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChatGPT.png"
         },
-	{
+        {
             "name": "Gemini",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini.png"
         },
@@ -642,7 +646,7 @@
             "name": "MicrosoftEdge",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftEdge.png"
         },
-	{
+        {
             "name": "MicrosoftBingSearch",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftBingSearch.png"
         },
@@ -694,7 +698,7 @@
             "name": "X Twitter",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/X-02.png"
         },
-	{
+        {
             "name": "X Twitter",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Twitter-01.png"
         },

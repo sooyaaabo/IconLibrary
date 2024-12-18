@@ -2,7 +2,7 @@
     "name": "Emby Icon",
     "description": "sooyaaabo（恩秀）",
     "icons": [
-	{
+        {
             "name": "Alist",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Alist.png"
         },
