@@ -1,0 +1,34 @@
+{
+    "name": "Airport Icons",
+    "description": "sooyaaabo（恩秀）",
+    "icons": [
+        {
+            "name": "ACA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/AcademyCityAirport.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/AladdinNetworkOptimizer-01.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/AladdinNetworkOptimizer-02.png"
+        },
+        {
+            "name": "CloudFisher",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/CloudFisher.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-01.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-02.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-03.png"
+        }
+    ]
+}
