@@ -408,7 +408,7 @@
         },
         {
             "name": "Filebar",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Filebar.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Filebar.png"
         },
         {
             "name": "Infuse",
@@ -611,12 +611,40 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Perplexity.png"
         },
         {
-            "name": "Moonshot",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Moonshot.png"
+            "name": "Grok xAI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Grok.png"
+        },
+        {
+            "name": "MoonshotAI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MoonshotAI.png"
+        },
+        {
+            "name": "Kimi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Kimi.png"
         },
         {
             "name": "DeepSeek",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DeepSeek.png"
+        },
+        {
+            "name": "HailuoAI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HailuoAI.png"
+        },
+        {
+            "name": "ZhipuChatGLM",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ZhipuChatGLM.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-01.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-02.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-03.png"
         },
         {
             "name": "InternetExplorer",
@@ -744,15 +772,15 @@
         },
         {
             "name": "Steam",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Steam.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Steam.png"
         },
         {
             "name": "EpicGames",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/EpicGames.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/EpicGames.png"
         },
         {
             "name": "Xbox",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Xbox.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xbox.png"
         },
         {
             "name": "Spotify",
