@@ -119,6 +119,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CoCoEmby.png"
         },
         {
+            "name": "DimLight",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DimLight.png"
+        },
+        {
             "name": "Doubon",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Doubon.png"
         },
@@ -415,6 +419,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-02.png"
         },
         {
+            "name": "SaturDayLite SDL",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-03.png"
+        },
+        {
             "name": "sfcjorg Feiyuemeitiku",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/sfcjorg-01.png"
         },
@@ -425,6 +433,14 @@
         {
             "name": "sfcjorg Feiyuemeitiku",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/sfcjorg-03.png"
+        },
+        {
+            "name": "StarSho Xingshuo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/StarSho-01.png"
+        },
+        {
+            "name": "StarSho Xingshuo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/StarSho-02.png"
         },
         {
             "name": "TanhuaTV",
