@@ -240,27 +240,43 @@
         },
         {
             "name": "Alipan Aliyunpan AliyunDrive",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan-01.png"
+        },
+        {
+            "name": "Alipan Aliyunpan AliyunDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan-02.png"
         },
         {
             "name": "BaiduNetDisk",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk-01.png"
+        },
+        {
+            "name": "BaiduNetDisk",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk-02.png"
+        },
+        {
+            "name": "123Pan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/123Pan-01.png"
+        },
+        {
+            "name": "123Pan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/123Pan-02.png"
+        },
+        {
+            "name": "115NetDisk",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/115NetDisk-01.png"
+        },
+        {
+            "name": "115NetDisk",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/115NetDisk-02.png"
         },
         {
             "name": "ThunderCloudDisk Xunlei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ThunderCloudDisk.png"
         },
         {
-            "name": "123Pan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/123Pan.png"
-        },
-        {
             "name": "FeijiPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FeijiPan.png"
-        },
-        {
-            "name": "115NetDisk",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/115NetDisk.png"
         },
         {
             "name": "CtfileDrive",
@@ -277,6 +293,10 @@
         {
             "name": "MicrosoftOneDrive",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftOneDrive.png"
+        },
+        {
+            "name": "fnOS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/fnOS.png"
         },
         {
             "name": "Amap Gaode",
