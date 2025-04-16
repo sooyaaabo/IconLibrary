@@ -227,6 +227,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingTalk.png"
         },
         {
+            "name": "Feishu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Feishu.png"
+        },
+        {
             "name": "TikTok Douyin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-01.png"
         },
@@ -345,6 +349,46 @@
         {
             "name": "WPS Office",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WPS_Office.png"
+        },
+        {
+            "name": "KDocs",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KDocs.png"
+        },
+        {
+            "name": "TencentDocs",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentDocs.png"
+        },
+        {
+            "name": "Evernote",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Evernote.png"
+        },
+        {
+            "name": "Verse",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Verse.png"
+        },
+        {
+            "name": "FlowUs",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FlowUs.png"
+        },
+        {
+            "name": "Shimo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Shimo.png"
+        },
+        {
+            "name": "Wolai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Wolai.png"
+        },
+        {
+            "name": "Mubu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Mubu.png"
+        },
+        {
+            "name": "Notion",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Notion.png"
+        },
+        {
+            "name": "Obsidian",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Obsidian.png"
         },
         {
             "name": "Fenbi",
