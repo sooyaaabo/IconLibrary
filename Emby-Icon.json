@@ -271,10 +271,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KikuEmby-02.png"
         },
         {
-            "name": "LajiEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LajiEmby.png"
-        },
-        {
             "name": "Lemby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Lemby.png"
         },
@@ -457,6 +453,10 @@
         {
             "name": "PrejuDiceEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PrejuDiceEmby.png"
+        },
+        {
+            "name": "RujiEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RujiEmby.png"
         },
         {
             "name": "SaturDayLite SDL",
