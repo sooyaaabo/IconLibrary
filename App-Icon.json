@@ -255,6 +255,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png"
         },
         {
+            "name": "QuarkPan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/QuarkPan.png"
+        },
+        {
+            "name": "UCDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/UCDrive.png"
+        },
+        {
             "name": "123Pan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/123Pan-01.png"
         },
@@ -765,6 +773,18 @@
         {
             "name": "Quark",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Quark.png"
+        },
+        {
+            "name": "UC",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/UC.png"
+        },
+        {
+            "name": "Baidu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Baidu.png"
+        },
+        {
+            "name": "QQBrowser",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/QQBrowser.png"
         },
         {
             "name": "Alook",
