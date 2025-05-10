@@ -256,11 +256,11 @@
         },
         {
             "name": "QuarkPan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/QuarkPan.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkPan.png"
         },
         {
             "name": "UCDrive",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/UCDrive.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/UCDrive.png"
         },
         {
             "name": "123Pan",
@@ -355,6 +355,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
         },
         {
+            "name": "Dingdongmaicai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dingdongmaicai.png"
+        },
+        {
             "name": "WPS Office",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WPS_Office.png"
         },
@@ -433,6 +437,18 @@
         {
             "name": "KuwoMusic",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KuwoMusic.png"
+        },
+        {
+            "name": "Ximalaya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ximalaya.png"
+        },
+        {
+            "name": "CosmosFM Xiaoyuzhou",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CosmosFM.png"
+        },
+        {
+            "name": "LEMOFM",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LEMOFM.png"
         },
         {
             "name": "LMP",
@@ -639,10 +655,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Fanshu.png"
         },
         {
-            "name": "Ximalaya",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ximalaya.png"
-        },
-        {
             "name": "Shenmezhidemai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhidemai.png"
         },
@@ -653,10 +665,6 @@
         {
             "name": "ColorfulCloudsWeatherPro Caiyun",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ColorfulCloudsWeatherPro.png"
-        },
-        {
-            "name": "LEMO FM",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LEMO%20FM.png"
         },
         {
             "name": "Memento",
@@ -780,15 +788,15 @@
         },
         {
             "name": "UC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/UC.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/UC.png"
         },
         {
             "name": "Baidu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Baidu.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Baidu.png"
         },
         {
             "name": "QQBrowser",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/QQBrowser.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QQBrowser.png"
         },
         {
             "name": "Alook",
