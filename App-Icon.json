@@ -439,6 +439,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SodaMusic.png"
         },
         {
+            "name": "BodianMusic",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BodianMusic.png"
+        },
+        {
             "name": "KuwoMusic",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KuwoMusic.png"
         },
@@ -627,8 +631,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Plex-02.png"
         },
         {
-            "name": "Follow",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Follow.png"
+            "name": "Folo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Folo.png"
         },
         {
             "name": "RSSHubRadar",
@@ -913,6 +917,10 @@
         {
             "name": "Turrit",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Turrit.png"
+        },
+        {
+            "name": "Intent",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Intent.png"
         },
         {
             "name": "AyuGram",
