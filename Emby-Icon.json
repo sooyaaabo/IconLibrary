@@ -51,6 +51,22 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/fnOS.png"
         },
         {
+            "name": "RottenTomatoes Fresh",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RottenTomatoes_Fresh.png"
+        },
+        {
+            "name": "RottenTomatoes Rotten",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RottenTomatoes_Rotten.png"
+        },
+        {
+            "name": "RottenTomatoes PositiveAudience",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png"
+        },
+        {
+            "name": "RottenTomatoes NegativeAudience",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png"
+        },
+        {
             "name": "105°",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-01.png"
         },
