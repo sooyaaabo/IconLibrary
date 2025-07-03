@@ -725,6 +725,10 @@
         {
             "name": "Zox",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Zox.png"
+        },
+        {
+            "name": "ZoxFree",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZoxFree.png"
         }
     ]
 }
