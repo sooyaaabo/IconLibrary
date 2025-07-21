@@ -632,7 +632,11 @@
         },
         {
             "name": "SNTPMediaLite",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-01.png"
+        },
+        {
+            "name": "SNTPMediaLite",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-02.png"
         },
         {
             "name": "StarEmby",
