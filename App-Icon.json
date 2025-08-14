@@ -43,6 +43,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LoonLite.png"
         },
         {
+            "name": "Loon",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LoonForMac.png"
+        },
+        {
             "name": "QuantumultX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuantumultX-01.png"
         },
@@ -580,7 +584,11 @@
         },
         {
             "name": "Reflix",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Reflix.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Reflix-01.png"
+        },
+        {
+            "name": "Reflix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Reflix-02.png"
         },
         {
             "name": "yybx",
@@ -601,6 +609,18 @@
         {
             "name": "Conflux",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Conflux.png"
+        },
+        {
+            "name": "DeePlayer",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DeePlayer.png"
+        },
+        {
+            "name": "Lenna",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Lenna.png"
+        },
+        {
+            "name": "EplayerX",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/EplayerX.png"
         },
         {
             "name": "Hills",
