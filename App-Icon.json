@@ -435,6 +435,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SparkMail-02.png"
         },
         {
+            "name": "NotionMail",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NotionMail.png"
+        },
+        {
             "name": "AppRaven",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppRaven.png"
         },
@@ -953,6 +957,10 @@
         {
             "name": "Intent",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Intent.png"
+        },
+        {
+            "name": "Lingogram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Lingogram.png"
         },
         {
             "name": "AyuGram",
