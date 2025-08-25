@@ -219,6 +219,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DVFilm-03.png"
         },
         {
+            "name": "EchoFlix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-01.png"
+        },
+        {
+            "name": "EchoFlix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-02.png"
+        },
+        {
             "name": "EdgeEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EdgeEmby.png"
         },
@@ -412,7 +420,11 @@
         },
         {
             "name": "LustfulBoy",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LustfulBoy.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LustfulBoy-01.png"
+        },
+        {
+            "name": "LustfulBoy",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LustfulBoy-02.png"
         },
         {
             "name": "Lyrebird",
