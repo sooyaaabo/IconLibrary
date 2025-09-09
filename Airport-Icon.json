@@ -1,0 +1,54 @@
+{
+    "name": "Airport Icons",
+    "description": "sooyaaabo（恩秀）",
+    "icons": [
+        {
+            "name": "ACA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/ACA.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/Aladdin-01.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/Aladdin-02.png"
+        },
+        {
+            "name": "Alphaio",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/Alphaio.png"
+        },
+        {
+            "name": "CloudFisher",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/CloudFisher.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-01.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-02.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/EFCloud-03.png"
+        },
+        {
+            "name": "RedLeaf",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/RedLeaf-01.png"
+        },
+        {
+            "name": "RedLeaf",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/RedLeaf-02.png"
+        },
+        {
+            "name": "Doriya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/Doriya.png"
+        },
+        {
+            "name": "OuO",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/OuO.png"
+        }
+    ]
+}
