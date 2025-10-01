@@ -223,6 +223,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DVFilm-03.png"
         },
         {
+            "name": "DVFilm DaV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DVFilm-04.png"
+        },
+        {
             "name": "EchoFlix",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-01.png"
         },
@@ -713,6 +717,10 @@
         {
             "name": "SNTPMediaLite",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-02.png"
+        },
+        {
+            "name": "SNTPMediaLite",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-03.png"
         },
         {
             "name": "StarEmby",
