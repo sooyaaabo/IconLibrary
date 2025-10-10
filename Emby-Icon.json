@@ -3,8 +3,12 @@
     "description": "sooyaaabo（恩秀）",
     "icons": [
         {
-            "name": "Alist",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Alist.png"
+            "name": "AList",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AList.png"
+        },
+        {
+            "name": "OpenList",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OpenList.png"
         },
         {
             "name": "Emby",
