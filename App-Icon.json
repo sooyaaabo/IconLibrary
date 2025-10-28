@@ -663,6 +663,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MediaStorm.png"
         },
         {
+            "name": "StormCam",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/StormCam.png"
+        },
+        {
             "name": "AList",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AList.png"
         },
@@ -717,6 +721,10 @@
         {
             "name": "CoolApk Kuan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CoolApk.png"
+        },
+        {
+            "name": "BaiduTieba",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduTieba.png"
         },
         {
             "name": "Zhihu",
