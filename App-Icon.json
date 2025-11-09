@@ -127,10 +127,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ClashMeta.png"
         },
         {
-            "name": "ClashParty",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ClashParty.png"
-        },
-        {
             "name": "ClashX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ClashX-01.png"
         },
@@ -389,6 +385,34 @@
         {
             "name": "Cainiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
+        },
+        {
+            "name": "Meituan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Meituan.png"
+        },
+        {
+            "name": "MeituanWaimai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MeituanTakeaway.png"
+        },
+        {
+            "name": "Eleme",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Eleme.png"
+        },
+        {
+            "name": "Taopiaopiao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Taopiaopiao.png"
+        },
+        {
+            "name": "Maoyan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Maoyan.png"
+        },
+        {
+            "name": "Damai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Damai.png"
+        },
+        {
+            "name": "DazhongDianping",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dianping.png"
         },
         {
             "name": "Dingdongmaicai",
