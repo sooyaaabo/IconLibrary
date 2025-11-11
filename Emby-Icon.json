@@ -443,8 +443,12 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalEmby-04.png"
         },
         {
-            "name": "LiminalLite Linxiaojing",
+            "name": "LiminalLite Linjing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalLiteEmby.png"
+        },
+        {
+            "name": "LiminalPro Linjing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalProEmby.png"
         },
         {
             "name": "LiuliEmby",
