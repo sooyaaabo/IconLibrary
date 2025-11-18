@@ -195,6 +195,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CoCoEmby.png"
         },
         {
+            "name": "dadaEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/dadaEmby.png"
+        },
+        {
             "name": "DanfuEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DanfuEmby.png"
         },
@@ -320,7 +324,11 @@
         },
         {
             "name": "HKAEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HKAEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HKAEmby-01.png"
+        },
+        {
+            "name": "HKAEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HKAEmby-02.png"
         },
         {
             "name": "HohaiEmby",
