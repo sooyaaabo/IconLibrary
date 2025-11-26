@@ -347,6 +347,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Railway12306.png"
         },
         {
+            "name": "Umetrip",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Umetrip.png"
+        },
+        {
             "name": "DiDi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DiDi.png"
         },
@@ -417,6 +421,42 @@
         {
             "name": "Dingdongmaicai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dingdongmaicai.png"
+        },
+        {
+            "name": "TaobaoTravel Feizhu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TaobaoTravel.png"
+        },
+        {
+            "name": "QunarTravel",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QunarTravel.png"
+        },
+        {
+            "name": "CtripTravel Xiecheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CtripTravel.png"
+        },
+        {
+            "name": "TongchengTravel",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TongchengTravel.png"
+        },
+        {
+            "name": "TuniuTravel",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TuniuTravel.png"
+        },
+        {
+            "name": "Mafengwo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Mafengwo.png"
+        },
+        {
+            "name": "58Tongcheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/58Tongcheng.png"
+        },
+        {
+            "name": "Xiaoheihe",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xiaoheihe.png"
+        },
+        {
+            "name": "miHoYoBBS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/miHoYoBBS.png"
         },
         {
             "name": "GP_GameHelper",
@@ -773,6 +813,10 @@
         {
             "name": "Zhihu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhihu.png"
+        },
+        {
+            "name": "FanqieNovel",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FanqieNovel.png"
         },
         {
             "name": "Fanshu",
@@ -1137,6 +1181,14 @@
         {
             "name": "FilesPreview",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FilesPreview.png"
+        },
+        {
+            "name": "PowerToys",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PowerToys.png"
+        },
+        {
+            "name": "UniGetUI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/UniGetUI.png"
         }
     ]
 }
