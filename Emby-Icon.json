@@ -79,6 +79,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-02.png"
         },
         {
+            "name": "404NotFound",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound.png"
+        },
+        {
             "name": "Aladdin Alading",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AladdinEmby-01.png"
         },
@@ -343,6 +347,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Houyinx-02.png"
         },
         {
+            "name": "HualuEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HualuEmby.png"
+        },
+        {
             "name": "ichinosekotomifan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ichinosekotomifan-01.png"
         },
@@ -523,6 +531,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Lyrebird-03.png"
         },
         {
+            "name": "Maidanglao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Maidanglao.png"
+        },
+        {
             "name": "MaoyanEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MaoyanEmby-01.png"
         },
@@ -604,7 +616,11 @@
         },
         {
             "name": "Nayovo",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nayovo.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nayovo-01.png"
+        },
+        {
+            "name": "Nayovo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nayovo-02.png"
         },
         {
             "name": "NebulaMedia Xingyun",
