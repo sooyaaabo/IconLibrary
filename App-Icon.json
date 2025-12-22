@@ -143,6 +143,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Surfboard.png"
         },
         {
+            "name": "IPPure",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IPPure.png"
+        },
+        {
             "name": "1.1.1.1",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/1.1.1.1-01.png"
         },
@@ -187,6 +191,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/i4Tools.png"
         },
         {
+            "name": "ooapps",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ooapps.png"
+        },
+        {
             "name": "AppStore",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppStore-01.png"
         },
@@ -195,8 +203,20 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppStore-02.png"
         },
         {
-            "name": "AppStore",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppStore-03.png"
+            "name": "iAppStore",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iAppStore-01.png"
+        },
+        {
+            "name": "iAppStore",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iAppStore-02.png"
+        },
+        {
+            "name": "iAppStore",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iAppStore-03.png"
+        },
+        {
+            "name": "Asspp",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Asspp.png"
         },
         {
             "name": "TestFlight",
@@ -387,6 +407,18 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Jingdong.png"
         },
         {
+            "name": "Pinduoduo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Pinduoduo.png"
+        },
+        {
+            "name": "Dewu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dewu.png"
+        },
+        {
+            "name": "Shihuo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Shihuo.png"
+        },
+        {
             "name": "Cainiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
         },
@@ -401,6 +433,10 @@
         {
             "name": "Eleme",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Eleme.png"
+        },
+        {
+            "name": "JingdongWaimai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/JingdongWaimai.png"
         },
         {
             "name": "Taopiaopiao",
@@ -739,6 +775,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Hills.png"
         },
         {
+            "name": "RodelPlayer Xiaohuan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RodelPlayer.png"
+        },
+        {
             "name": "MediaPlayer",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MediaPlayer.png"
         },
@@ -859,8 +899,20 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tampermonkey.png"
         },
         {
+            "name": "Scriptable",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Scriptable.png"
+        },
+        {
+            "name": "Scripting",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Scripting.png"
+        },
+        {
             "name": "Currency",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Currency.png"
+        },
+        {
+            "name": "Bark",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Bark.png"
         },
         {
             "name": "Apple",
@@ -884,7 +936,11 @@
         },
         {
             "name": "Gemini",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini-01.png"
+        },
+        {
+            "name": "Gemini",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini-02.png"
         },
         {
             "name": "MicrosoftCopilot",
