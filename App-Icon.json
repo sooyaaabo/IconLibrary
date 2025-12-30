@@ -363,6 +363,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Amap.png"
         },
         {
+            "name": "BaiduMap",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduMap.png"
+        },
+        {
+            "name": "TencentMap",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentMap.png"
+        },
+        {
             "name": "Railway12306",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Railway12306.png"
         },
