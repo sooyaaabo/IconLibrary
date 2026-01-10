@@ -343,6 +343,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HardMoon.png"
         },
         {
+            "name": "HelloEmby Nihao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby.png"
+        },
+        {
             "name": "HKAEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HKAEmby-01.png"
         },
@@ -919,6 +923,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Temby.png"
         },
         {
+            "name": "TFTV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TFTV-01.png"
+        },
+        {
+            "name": "TFTV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TFTV-02.png"
+        },
+        {
             "name": "TheLuYuan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TheLuYuan.png"
         },
@@ -927,12 +939,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TreeDiagram.png"
         },
         {
-            "name": "Tufei TFTV",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TufeiEmby-01.png"
-        },
-        {
-            "name": "Tufei TFTV",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TufeiEmby-02.png"
+            "name": "Tufei",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TufeiEmby.png"
         },
         {
             "name": "VioletEmby",
