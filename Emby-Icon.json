@@ -168,7 +168,11 @@
         },
         {
             "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BuChiXiangCai.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BuChiXiangCai-01.png"
+        },
+        {
+            "name": "BuChiXiangCai BCXC",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BuChiXiangCai-02.png"
         },
         {
             "name": "CcEmby",
@@ -941,6 +945,10 @@
         {
             "name": "Tufei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TufeiEmby.png"
+        },
+        {
+            "name": "Unbound WoShenWuJu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/UnboundEmby.png"
         },
         {
             "name": "VioletEmby",
