@@ -567,16 +567,20 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Lyrebird-03.png"
         },
         {
-            "name": "Maidanglao",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Maidanglao.png"
-        },
-        {
             "name": "MaoyanEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MaoyanEmby-01.png"
         },
         {
             "name": "MaoyanEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MaoyanEmby-02.png"
+        },
+        {
+            "name": "Maidanglao MDL",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MDLEmby-01.png"
+        },
+        {
+            "name": "Maidanglao MDL",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MDLEmby-02.png"
         },
         {
             "name": "MeatHub",
