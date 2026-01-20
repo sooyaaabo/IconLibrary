@@ -455,6 +455,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
         },
         {
+            "name": "SF-Express",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SF-Express.png"
+        },
+        {
             "name": "Meituan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Meituan.png"
         },
@@ -469,6 +473,10 @@
         {
             "name": "JingdongWaimai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/JingdongWaimai.png"
+        },
+        {
+            "name": "Xiaocan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xiaocan.png"
         },
         {
             "name": "Taopiaopiao",
@@ -557,6 +565,10 @@
         {
             "name": "WPS Office",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WPS_Office.png"
+        },
+        {
+            "name": "BaiduWenku",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduWenku.png"
         },
         {
             "name": "KDocs",
