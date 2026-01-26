@@ -344,7 +344,11 @@
         },
         {
             "name": "GouSheng",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GouSheng.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GouSheng-01.png"
+        },
+        {
+            "name": "GouSheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GouSheng-02.png"
         },
         {
             "name": "HandouEmby",
@@ -623,8 +627,16 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Meowfly-05.png"
         },
         {
+            "name": "MiraiEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MiraiEmby.png"
+        },
+        {
             "name": "MisakaF",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MisakaF.png"
+        },
+        {
+            "name": "MisayaMedia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MisayaMedia.png"
         },
         {
             "name": "Misty",
@@ -965,6 +977,10 @@
         {
             "name": "Tufei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TufeiEmby.png"
+        },
+        {
+            "name": "UHD",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/UHD.png"
         },
         {
             "name": "Unbound WoShenWuJu",
