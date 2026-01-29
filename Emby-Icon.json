@@ -640,7 +640,15 @@
         },
         {
             "name": "MEEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEEmby-01.png"
+        },
+        {
+            "name": "MEEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEEmby-02.png"
+        },
+        {
+            "name": "MEEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEEmby-03.png"
         },
         {
             "name": "Meowfly",
@@ -729,6 +737,10 @@
         {
             "name": "NebulaMedia Xingyun",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NebulaMedia-04.png"
+        },
+        {
+            "name": "NebulaMedia Xingyun",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NebulaMedia-05.png"
         },
         {
             "name": "NijigenEmby Erciyuan",
@@ -973,6 +985,14 @@
         {
             "name": "TanhuaTV",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-02.png"
+        },
+        {
+            "name": "TanhuaTV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-03.png"
+        },
+        {
+            "name": "TanhuaTV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-04.png"
         },
         {
             "name": "TdckEmby Qidianzhan",
