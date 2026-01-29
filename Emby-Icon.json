@@ -672,7 +672,11 @@
         },
         {
             "name": "MskyEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby-01.png"
+        },
+        {
+            "name": "MskyEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby-02.png"
         },
         {
             "name": "Nanflix Tiannanxiaozhu",
@@ -1029,10 +1033,6 @@
         {
             "name": "YeziEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YeziEmby-03.png"
-        },
-        {
-            "name": "YeziEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YeziEmby-04.png"
         },
         {
             "name": "Yimeng",
