@@ -135,6 +135,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-03.png"
         },
         {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-04.png"
+        },
+        {
             "name": "AuroraMedia",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AuroraMedia-01.png"
         },
@@ -680,23 +684,7 @@
         },
         {
             "name": "Nanflix Tiannanxiaozhu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix-01.png"
-        },
-        {
-            "name": "Nanflix Tiannanxiaozhu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix-02.png"
-        },
-        {
-            "name": "Nanflix Tiannanxiaozhu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix-03.png"
-        },
-        {
-            "name": "Nanflix Tiannanxiaozhu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix-04.png"
-        },
-        {
-            "name": "Nanflix Tiannanxiaozhu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix-05.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nanflix.png"
         },
         {
             "name": "Nayovo",
