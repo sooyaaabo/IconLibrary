@@ -255,6 +255,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/dadaEmby-02.png"
         },
         {
+            "name": "dadaEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/dadaEmby-03.png"
+        },
+        {
+            "name": "dadaEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/dadaEmby-04.png"
+        },
+        {
             "name": "DanfuEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DanfuEmby.png"
         },
@@ -679,6 +687,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MDLEmby-02.png"
         },
         {
+            "name": "Maidanglao MDL",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MDLEmby-03.png"
+        },
+        {
             "name": "MeatHub",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MeatHub.png"
         },
@@ -993,10 +1005,6 @@
         {
             "name": "SaturDayLite SDL",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-04.png"
-        },
-        {
-            "name": "SaturDayLite SDL",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-05.png"
         },
         {
             "name": "SaturDayPremium SDP",
