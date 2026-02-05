@@ -219,6 +219,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-06.png"
         },
         {
+            "name": "BuChiXiangCai BCXC",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-07.png"
+        },
+        {
             "name": "CcEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CcEmby-01.png"
         },
@@ -1216,7 +1220,11 @@
         },
         {
             "name": "WeEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WeEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WeEmby-01.png"
+        },
+        {
+            "name": "WeEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WeEmby-02.png"
         },
         {
             "name": "Wenjian",
