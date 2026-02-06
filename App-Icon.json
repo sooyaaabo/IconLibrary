@@ -1,6 +1,6 @@
 {
-    "name": "App Icons",
-    "description": "sooyaaabo（恩秀）",
+    "name": "恩秀App图标库",
+    "description": "作者：sooyaaabo 更新时间：2026-02-06 23:00",
     "icons": [
         {
             "name": "Loon",
@@ -331,8 +331,12 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png"
         },
         {
-            "name": "QuarkPan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkPan.png"
+            "name": "QuarkCloudDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkCloudDrive-01.png"
+        },
+        {
+            "name": "QuarkCloudDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkCloudDrive-02.png"
         },
         {
             "name": "UCDrive",
@@ -569,6 +573,10 @@
         {
             "name": "LOL_Bible",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LOL_Bible.png"
+        },
+        {
+            "name": "QuarkScanKing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkScanKing.png"
         },
         {
             "name": "WPS Office",
@@ -963,10 +971,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Notifyman.png"
         },
         {
-            "name": "CamScanner",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CamScanner.png"
-        },
-        {
             "name": "Raycast",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Raycast.png"
         },
@@ -1099,8 +1103,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Genspark.png"
         },
         {
-            "name": "Quark",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Quark.png"
+            "name": "QuarkBrowser",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkBrowser.png"
         },
         {
             "name": "UC",
