@@ -591,6 +591,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KikuEmby-02.png"
         },
         {
+            "name": "KLEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KLEmby.png"
+        },
+        {
             "name": "Laoyouji",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Laoyouji.png"
         },
@@ -1141,6 +1145,10 @@
         {
             "name": "SNTPMediaLite",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-03.png"
+        },
+        {
+            "name": "SNTPMediaLite",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SNTPMediaLite-04.png"
         },
         {
             "name": "StarEmby",
