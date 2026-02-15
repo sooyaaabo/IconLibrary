@@ -719,6 +719,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MangoTV.png"
         },
         {
+            "name": "MiguVideo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MiguVideo.png"
+        },
+        {
             "name": "Maiduidui",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Maiduidui.png"
         },
@@ -965,6 +969,10 @@
         {
             "name": "ColorfulCloudsWeatherPro Caiyun",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ColorfulCloudsWeatherPro.png"
+        },
+        {
+            "name": "QWeather HefengWeather",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QWeather.png"
         },
         {
             "name": "Memento",
