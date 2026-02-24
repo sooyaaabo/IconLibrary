@@ -327,6 +327,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DVFilm-04.png"
         },
         {
+            "name": "DVFilm DaV",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DVFilm-05.png"
+        },
+        {
             "name": "EBSEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EBSEmby-01.png"
         },
@@ -937,6 +941,14 @@
         {
             "name": "NiuBi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NiuBi-04.png"
+        },
+        {
+            "name": "NSFW",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NSFWEmby-01.png"
+        },
+        {
+            "name": "NSFW",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NSFWEmby-02.png"
         },
         {
             "name": "NTRRR",
