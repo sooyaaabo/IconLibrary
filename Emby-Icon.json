@@ -571,11 +571,11 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/JingzheEmby-05.png"
         },
         {
-            "name": "JMS holivator Jiarifeixingjia",
+            "name": "JMS Holivator Jiarifeixingjia",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/JMS-01.png"
         },
         {
-            "name": "JMS holivator Jiarifeixingjia",
+            "name": "JMS Holivator Jiarifeixingjia",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/JMS-02.png"
         },
         {
@@ -941,6 +941,10 @@
         {
             "name": "NebulaMedia Xingyun",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NebulaMedia-05.png"
+        },
+        {
+            "name": "NextNewEP Ember",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NextNewEP.png"
         },
         {
             "name": "NiceEmby",
