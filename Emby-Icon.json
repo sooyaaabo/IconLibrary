@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-10 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-11 00:00",
     "icons": [
         {
             "name": "AList",
@@ -673,6 +673,22 @@
         {
             "name": "KLEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KLEmby-04.png"
+        },
+        {
+            "name": "Kuailedaya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Kuailedaya-01.png"
+        },
+        {
+            "name": "Kuailedaya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Kuailedaya-02.png"
+        },
+        {
+            "name": "Kuailedaya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Kuailedaya-03.png"
+        },
+        {
+            "name": "Kuailedaya",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Kuailedaya-04.png"
         },
         {
             "name": "Laoyouji",
