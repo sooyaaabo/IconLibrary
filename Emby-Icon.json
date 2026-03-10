@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-08 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-10 16:00",
     "icons": [
         {
             "name": "AList",
@@ -277,6 +277,10 @@
         {
             "name": "CookieEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CookieEmby-02.png"
+        },
+        {
+            "name": "CookieEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CookieEmby-03.png"
         },
         {
             "name": "dadaEmby",
@@ -565,6 +569,14 @@
         {
             "name": "ikunEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ikunEmby.png"
+        },
+        {
+            "name": "Iris Yuanwei",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Iris-01.png"
+        },
+        {
+            "name": "Iris Yuanwei",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Iris-02.png"
         },
         {
             "name": "Jellyfish+ Shuimu",
