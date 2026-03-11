@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-11 15:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-11 22:00",
     "icons": [
         {
             "name": "AList",
@@ -580,7 +580,15 @@
         },
         {
             "name": "Jellyfish+ Shuimu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Jellyfish+.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Jellyfish+-01.png"
+        },
+        {
+            "name": "Jellyfish+ Shuimu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Jellyfish+-02.png"
+        },
+        {
+            "name": "Jellyfish+ Shuimu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Jellyfish+-03.png"
         },
         {
             "name": "JianShouQingn Jsq",
@@ -696,7 +704,11 @@
         },
         {
             "name": "LeEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LeEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LeEmby-01.png"
+        },
+        {
+            "name": "LeEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LeEmby-02.png"
         },
         {
             "name": "Lemby",
@@ -1144,7 +1156,11 @@
         },
         {
             "name": "Pinhaofu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Pinhaofu.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Pinhaofu-01.png"
+        },
+        {
+            "name": "Pinhaofu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Pinhaofu-02.png"
         },
         {
             "name": "PlayzEmby",
