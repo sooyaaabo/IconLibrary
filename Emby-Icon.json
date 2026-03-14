@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-13 01:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-14 10:30",
     "icons": [
         {
             "name": "AList",
@@ -259,6 +259,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail.png"
         },
         {
+            "name": "ClimbHigh Denggao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ClimbHigh-01.png"
+        },
+        {
+            "name": "ClimbHigh Denggao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ClimbHigh-02.png"
+        },
+        {
             "name": "CloudEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby.png"
         },
@@ -357,6 +365,18 @@
         {
             "name": "EdgeEmby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EdgeEmby.png"
+        },
+        {
+            "name": "EmbyClub Maoxiong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyClub-01.png"
+        },
+        {
+            "name": "EmbyClub Maoxiong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyClub-02.png"
+        },
+        {
+            "name": "EmbyClub Maoxiong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyClub-03.png"
         },
         {
             "name": "EmbyPlus Zhipianren",
