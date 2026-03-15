@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-15 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-16 00:00",
     "icons": [
         {
             "name": "AList",
@@ -268,7 +268,11 @@
         },
         {
             "name": "Cloud YunShang",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby-01.png"
+        },
+        {
+            "name": "Cloud YunShang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby-02.png"
         },
         {
             "name": "CoCo",
@@ -473,6 +477,10 @@
         {
             "name": "FWorks",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FWorksEmby-02.png"
+        },
+        {
+            "name": "FWorks",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FWorksEmby-03.png"
         },
         {
             "name": "GouSheng",
@@ -1529,6 +1537,18 @@
         {
             "name": "XiGua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiGua.png"
+        },
+        {
+            "name": "XYZ XiaoYiZi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby-01.png"
+        },
+        {
+            "name": "XYZ XiaoYiZi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby-02.png"
+        },
+        {
+            "name": "XYZ XiaoYiZi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby-03.png"
         },
         {
             "name": "YeZi",
