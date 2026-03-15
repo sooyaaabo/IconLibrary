@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-14 11:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-15 15:00",
     "icons": [
         {
             "name": "AList",
@@ -673,14 +673,6 @@
         {
             "name": "Kiku",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KikuEmby-03.png"
-        },
-        {
-            "name": "XiaoXiaMi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KinEmby-01.png"
-        },
-        {
-            "name": "XiaoXiaMi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KinEmby-02.png"
         },
         {
             "name": "KL",
@@ -1517,6 +1509,18 @@
         {
             "name": "WorldLine ShouShuShiJieXian",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WorldLine-02.png"
+        },
+        {
+            "name": "XiaoXiaMi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Xiami-01.png"
+        },
+        {
+            "name": "XiaoXiaMi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Xiami-02.png"
+        },
+        {
+            "name": "XiaoXiaMi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Xiami-02.png"
         },
         {
             "name": "XiaoZhuXuan",
