@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-16 00:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-16 23:00",
     "icons": [
         {
             "name": "AList",
@@ -409,6 +409,10 @@
         {
             "name": "empn",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/empn-02.png"
+        },
+        {
+            "name": "EOOS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EOOS.png"
         },
         {
             "name": "ETFLIX",
@@ -1277,6 +1281,10 @@
         {
             "name": "SaoDu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaoDuLite.png"
+        },
+        {
+            "name": "SaturDayLite+ SDL+",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite+.png"
         },
         {
             "name": "SaturDayLite SDL",
