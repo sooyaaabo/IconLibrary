@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-16 23:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-17 01:00",
     "icons": [
         {
             "name": "AList",
@@ -325,6 +325,18 @@
         {
             "name": "DPeakFilma",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DPeakFilma.png"
+        },
+        {
+            "name": "Drama",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Drama-01.png"
+        },
+        {
+            "name": "Drama",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Drama-02.png"
+        },
+        {
+            "name": "Drama",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Drama-03.png"
         },
         {
             "name": "Dusky",
