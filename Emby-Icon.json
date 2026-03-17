@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-17 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-17 23:00",
     "icons": [
         {
             "name": "AList",
@@ -1649,6 +1649,18 @@
         {
             "name": "Yum",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YumEmby.png"
+        },
+        {
+            "name": "ZhouSanWan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhouSanWan-01.png"
+        },
+        {
+            "name": "ZhouSanWan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhouSanWan-02.png"
+        },
+        {
+            "name": "ZhouSanWan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhouSanWan-03.png"
         },
         {
             "name": "Zn",
