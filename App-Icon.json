@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-18 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-18 23:00",
     "icons": [
         {
             "name": "Loon",
@@ -103,7 +103,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Egern-02.png"
         },
         {
-            "name": "Pharos Pro",
+            "name": "PharosPro",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PharosPro.png"
         },
         {
@@ -295,47 +295,47 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QQ.png"
         },
         {
-            "name": "WeChat Weixin",
+            "name": "WeChat WeiXin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeChat.png"
         },
         {
-            "name": "DingTalk Dingding",
+            "name": "DingTalk DingDing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingTalk.png"
         },
         {
-            "name": "Feishu",
+            "name": "FeiShu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Feishu.png"
         },
         {
-            "name": "TikTok Douyin",
+            "name": "TikTok DouYin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-01.png"
         },
         {
-            "name": "TikTok Douyin",
+            "name": "TikTok DouYin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-02.png"
         },
         {
-            "name": "Kwai Kuaishou",
+            "name": "Kwai KuaiShou",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Kwai.png"
         },
         {
-            "name": "Alipan Aliyunpan AliyunDrive",
+            "name": "Alipan ALiYunPan AliyunDrive",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan-01.png"
         },
         {
-            "name": "Alipan Aliyunpan AliyunDrive",
+            "name": "Alipan ALiYunPan AliyunDrive",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan-02.png"
         },
         {
-            "name": "BaiduNetDisk",
+            "name": "BaiduNetDisk BaiDuWangPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png"
         },
         {
-            "name": "QuarkCloudDrive",
+            "name": "QuarkCloudDrive BaiDuWangPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkCloudDrive-01.png"
         },
         {
-            "name": "QuarkCloudDrive",
+            "name": "QuarkCloudDrive KuaKeWangPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkCloudDrive-02.png"
         },
         {
@@ -359,15 +359,15 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/115NetDisk-02.png"
         },
         {
-            "name": "ThunderCloudDisk Xunlei",
+            "name": "ThunderCloudDisk XunLei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ThunderCloudDisk.png"
         },
         {
-            "name": "FeijiPan",
+            "name": "FeijiPan XiaoFeiJiWangPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FeijiPan.png"
         },
         {
-            "name": "CtfileDrive",
+            "name": "CtfileDrive ChengTongWangPan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CtfileDrive.png"
         },
         {
@@ -383,19 +383,19 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftOneDrive.png"
         },
         {
-            "name": "fnOS",
+            "name": "fnOS FeiNiu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/fnOS.png"
         },
         {
-            "name": "Amap Gaode",
+            "name": "Amap GaoDeDiTu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Amap.png"
         },
         {
-            "name": "BaiduMap",
+            "name": "BaiduMap BaiDuDiTu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduMap.png"
         },
         {
-            "name": "TencentMap",
+            "name": "TencentMap TengXunDiTu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentMap.png"
         },
         {
@@ -403,7 +403,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Railway12306.png"
         },
         {
-            "name": "Umetrip",
+            "name": "Umetrip ZhongHengHangLv",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Umetrip.png"
         },
         {
@@ -411,11 +411,11 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DiDi.png"
         },
         {
-            "name": "Weibo",
+            "name": "WeiBo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Weibo.png"
         },
         {
-            "name": "Weibo",
+            "name": "WeiBo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Weibo_intl.png"
         },
         {
@@ -423,127 +423,131 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VVebo.png"
         },
         {
-            "name": "RedNote RedBook RedPaper Xiaohongshu",
+            "name": "RedNote RedBook RedPaper XiaoHongShu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RedNote.png"
         },
         {
-            "name": "Alipay Zhifubao",
+            "name": "Alipay ZhiFuBao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipay.png"
         },
         {
-            "name": "Taobao",
+            "name": "TaoBao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Taobao.png"
         },
         {
-            "name": "Goofish Xianyu",
+            "name": "Goofish XianYu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Goofish.png"
         },
         {
-            "name": "Jingdong",
+            "name": "JingDong",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Jingdong.png"
         },
         {
-            "name": "Pinduoduo",
+            "name": "PinDuoDuo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Pinduoduo.png"
         },
         {
-            "name": "Dewu",
+            "name": "DeWu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dewu.png"
         },
         {
-            "name": "Shihuo",
+            "name": "ShiHuo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Shihuo.png"
         },
         {
-            "name": "Cainiao",
+            "name": "CaiNiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cainiao.png"
         },
         {
-            "name": "SF-Express",
+            "name": "SF-Express ShunFeng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SF-Express.png"
         },
         {
-            "name": "Meituan",
+            "name": "MeiTuan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Meituan.png"
         },
         {
-            "name": "MeituanWaimai",
+            "name": "MeiTuanWaiMai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MeituanTakeaway.png"
         },
         {
-            "name": "Eleme",
+            "name": "ELeMe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Eleme.png"
         },
         {
-            "name": "JingdongWaimai",
+            "name": "JingDongWaiMai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/JingdongWaimai.png"
         },
         {
-            "name": "Xiaocan",
+            "name": "XiaoCan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xiaocan.png"
         },
         {
-            "name": "Taopiaopiao",
+            "name": "TaoPiaoPiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Taopiaopiao.png"
         },
         {
-            "name": "Maoyan",
+            "name": "MaoYan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Maoyan.png"
         },
         {
-            "name": "Damai",
+            "name": "DaMai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Damai.png"
         },
         {
-            "name": "DazhongDianping",
+            "name": "DaZhongDianPing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dianping.png"
         },
         {
-            "name": "Dingdongmaicai",
+            "name": "Freshippo HeMa",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Freshippo.png"
+        },
+        {
+            "name": "DingDongMaiCai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dingdongmaicai.png"
         },
         {
-            "name": "XiaoxiangSupermarket",
+            "name": "XiaoxiangSupermarket XiaoXiangChaoShi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XiaoxiangSupermarket.png"
         },
         {
-            "name": "TaobaoTravel Feizhu",
+            "name": "TaobaoTravel FeiZhu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TaobaoTravel.png"
         },
         {
-            "name": "QunarTravel",
+            "name": "QunarTravel QuNaEr",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QunarTravel.png"
         },
         {
-            "name": "CtripTravel Xiecheng",
+            "name": "CtripTravel XieCheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CtripTravel.png"
         },
         {
-            "name": "TongchengTravel",
+            "name": "TongchengTravel TongChengLvXing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TongchengTravel.png"
         },
         {
-            "name": "TuniuTravel",
+            "name": "TuniuTravel TuNiuLvYou",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TuniuTravel.png"
         },
         {
-            "name": "Mafengwo",
+            "name": "MaFengWo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Mafengwo.png"
         },
         {
-            "name": "58Tongcheng",
+            "name": "58TongCheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/58Tongcheng.png"
         },
         {
-            "name": "MeetYou Meiyou",
+            "name": "MeetYou MeiYou",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MeetYou.png"
         },
         {
-            "name": "Xueqiu",
+            "name": "XueQiu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xueqiu.png"
         },
         {
-            "name": "Caixin",
+            "name": "CaiXin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Caixin.png"
         },
         {
@@ -555,31 +559,31 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HUPU-02.png"
         },
         {
-            "name": "Xiaoheihe",
+            "name": "XiaoHeiHe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Xiaoheihe.png"
         },
         {
-            "name": "miHoYoBBS",
+            "name": "miHoYoBBS MiYouShe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/miHoYoBBS.png"
         },
         {
-            "name": "XinyueClub",
+            "name": "XinyueClub XinYueJuLeBu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XinyueClub.png"
         },
         {
-            "name": "GP_GameHelper",
+            "name": "GP_GameHelper HePingYingDi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GP_GameHelper.png"
         },
         {
-            "name": "HOK_GameHelper",
+            "name": "HOK_GameHelper WangZheYingDi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HOK_GameHelper.png"
         },
         {
-            "name": "LOL_Bible",
+            "name": "LOL_Bible ZhangShangYingXiongLianMeng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LOL_Bible.png"
         },
         {
-            "name": "QuarkScanKing",
+            "name": "QuarkScanKing KuaKeSaoMiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkScanKing.png"
         },
         {
@@ -587,19 +591,19 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WPS_Office.png"
         },
         {
-            "name": "BaiduWenku",
+            "name": "BaiDuWenKu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduWenku.png"
         },
         {
-            "name": "KDocs",
+            "name": "KDocs JinShanWenDang",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KDocs.png"
         },
         {
-            "name": "TencentDocs",
+            "name": "TencentDocs TengXunWenDang",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentDocs.png"
         },
         {
-            "name": "Evernote",
+            "name": "Evernote YinXiangBiJi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Evernote.png"
         },
         {
@@ -607,19 +611,19 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Verse.png"
         },
         {
-            "name": "FlowUs",
+            "name": "FlowUs XiLiu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FlowUs.png"
         },
         {
-            "name": "Shimo",
+            "name": "ShiMo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Shimo.png"
         },
         {
-            "name": "Wolai",
+            "name": "WoLai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Wolai.png"
         },
         {
-            "name": "Mubu",
+            "name": "MuBu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Mubu.png"
         },
         {
@@ -631,7 +635,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Obsidian.png"
         },
         {
-            "name": "Fenbi",
+            "name": "FenBi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Fenbi.png"
         },
         {
@@ -655,35 +659,35 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppRaven.png"
         },
         {
-            "name": "QQMusic",
+            "name": "QQMusic QQYinYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QQMusic.png"
         },
         {
-            "name": "NeteaseMusic",
+            "name": "NeteaseMusic WangYiYunYinYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseMusic.png"
         },
         {
-            "name": "SodaMusic",
+            "name": "SodaMusic QiShuiYinYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SodaMusic.png"
         },
         {
-            "name": "BodianMusic",
+            "name": "BodianMusic BoDianYinYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BodianMusic.png"
         },
         {
-            "name": "KuwoMusic",
+            "name": "KuwoMusic KuWoYinYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KuwoMusic.png"
         },
         {
-            "name": "Himalaya Ximalaya",
+            "name": "Himalaya XiMaLaYa",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HimalayaFM.png"
         },
         {
-            "name": "ArchimedesFM",
+            "name": "ArchimedesFM AJiMiDe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ArchimedesFM.png"
         },
         {
-            "name": "CosmosFM Xiaoyuzhou",
+            "name": "CosmosFM XiaoYuZhou",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CosmosFM.png"
         },
         {
@@ -707,7 +711,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PureMusic.png"
         },
         {
-            "name": "TencentVideo WeTV",
+            "name": "TencentVideo WeTV TengXunShiPin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentVideo.png"
         },
         {
@@ -715,23 +719,23 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IQIYI.png"
         },
         {
-            "name": "YoukuVideo",
+            "name": "YoukuVideo YouKuShiPin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/YoukuVideo.png"
         },
         {
-            "name": "MangoTV",
+            "name": "MangoTV MangGuo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MangoTV.png"
         },
         {
-            "name": "MiguVideo",
+            "name": "MiguVideo MiGuShiPin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MiguVideo.png"
         },
         {
-            "name": "Maiduidui",
+            "name": "MaiDuiDui",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Maiduidui.png"
         },
         {
-            "name": "HanjuTV",
+            "name": "HanJuTV",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HanjuTV.png"
         },
         {
@@ -763,7 +767,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PandaTV-02.png"
         },
         {
-            "name": "Ezviz",
+            "name": "Ezviz YingShiYunShiPin",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ezviz.png"
         },
         {
@@ -811,11 +815,11 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-01.png"
         },
         {
-            "name": "Filmly Baomihua",
+            "name": "Filmly BaoMiHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-02.png"
         },
         {
-            "name": "Filmly Baomihua",
+            "name": "Filmly BaoMiHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseFilmly-03.png"
         },
         {
@@ -875,7 +879,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Hills.png"
         },
         {
-            "name": "RodelPlayer Xiaohuan",
+            "name": "RodelPlayer XiaoHuan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RodelPlayer.png"
         },
         {
@@ -931,7 +935,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RSSHubRadar.png"
         },
         {
-            "name": "LuckinCoffee Ruixing",
+            "name": "LuckinCoffee RuiXingKaFei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LuckinCoffee.png"
         },
         {
@@ -943,39 +947,39 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IThome.png"
         },
         {
-            "name": "CoolApk Kuan",
+            "name": "CoolApk KuAn",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CoolApk.png"
         },
         {
-            "name": "BaiduTieba",
+            "name": "BaiDuTieBa",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduTieba.png"
         },
         {
-            "name": "Zhihu",
+            "name": "ZhiHu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhihu.png"
         },
         {
-            "name": "FanqieNovel",
+            "name": "FanqieNovel FanQieXiaoShuo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FanqieNovel.png"
         },
         {
-            "name": "Fanshu",
+            "name": "FanShu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Fanshu.png"
         },
         {
-            "name": "Shenmezhidemai",
+            "name": "ShenMeZhiDeMai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhidemai.png"
         },
         {
-            "name": "ColorfulCloudsWeather Caiyun",
+            "name": "ColorfulCloudsWeather CaiYunTianQi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ColorfulCloudsWeather.png"
         },
         {
-            "name": "ColorfulCloudsWeatherPro Caiyun",
+            "name": "ColorfulCloudsWeatherPro CaiYunTianQi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ColorfulCloudsWeatherPro.png"
         },
         {
-            "name": "QWeather HefengWeather",
+            "name": "QWeather HeFengTianQi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QWeather.png"
         },
         {
@@ -1075,27 +1079,27 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DeepSeek.png"
         },
         {
-            "name": "HailuoAI",
+            "name": "HaiLuoAI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HailuoAI.png"
         },
         {
-            "name": "ZhipuChatGLM",
+            "name": "ZhiPuChatGLM",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ZhipuChatGLM.png"
         },
         {
-            "name": "Tongyi Qwen",
+            "name": "Qwen QianWen",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-01.png"
         },
         {
-            "name": "Tongyi Qwen",
+            "name": "Qwen QianWen",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-02.png"
         },
         {
-            "name": "Tongyi Qwen",
+            "name": "Qwen QianWen",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Tongyi-03.png"
         },
         {
-            "name": "TencentYuanbao",
+            "name": "YuanBao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentYuanbao.png"
         },
         {
@@ -1131,7 +1135,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/UC.png"
         },
         {
-            "name": "Baidu",
+            "name": "BaiDu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Baidu.png"
         },
         {
