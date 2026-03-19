@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-19 09:30",
+    "description": "作者：sooyaaabo 更新时间：2026-03-19 12:00",
     "icons": [
         {
             "name": "AList",
@@ -268,7 +268,15 @@
         },
         {
             "name": "CineTrail YingJi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-01.png"
+        },
+        {
+            "name": "CineTrail YingJi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-02.png"
+        },
+        {
+            "name": "CineTrail YingJi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-03.png"
         },
         {
             "name": "ClimbHigh DengGao",
