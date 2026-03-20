@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-19 12:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-20 17:00",
     "icons": [
         {
             "name": "AList",
@@ -165,6 +165,22 @@
         {
             "name": "AskUniversal",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-04.png"
+        },
+        {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-05.png"
+        },
+        {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-06.png"
+        },
+        {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-07.png"
+        },
+        {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-08.png"
         },
         {
             "name": "AuroraMedia",
