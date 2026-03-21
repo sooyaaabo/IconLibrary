@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-20 17:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-21 23:00",
     "icons": [
         {
             "name": "AList",
@@ -1316,7 +1316,15 @@
         },
         {
             "name": "Roc",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-01.png"
+        },
+        {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-02.png"
+        },
+        {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-03.png"
         },
         {
             "name": "RuJi",
