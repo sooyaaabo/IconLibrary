@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-18 23:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-22 18:00",
     "icons": [
         {
             "name": "Loon",
@@ -959,6 +959,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Zhihu.png"
         },
         {
+            "name": "DouBan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Douban.png"
+        },
+        {
             "name": "FanqieNovel FanQieXiaoShuo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FanqieNovel.png"
         },
@@ -1100,7 +1104,11 @@
         },
         {
             "name": "YuanBao",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentYuanbao.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentYuanbao-01.png"
+        },
+        {
+            "name": "YuanBao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentYuanbao-02.png"
         },
         {
             "name": "MiniMax",
