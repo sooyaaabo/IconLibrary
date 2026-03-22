@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-21 23:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-22 08:00",
     "icons": [
         {
             "name": "AList",
@@ -181,6 +181,10 @@
         {
             "name": "AskUniversal",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-08.png"
+        },
+        {
+            "name": "AskUniversal",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-09.png"
         },
         {
             "name": "AuroraMedia",
@@ -413,6 +417,18 @@
         {
             "name": "EchoFlix",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-02.png"
+        },
+        {
+            "name": "EchoFlix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-03.png"
+        },
+        {
+            "name": "EchoFlix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-04.png"
+        },
+        {
+            "name": "EchoFlix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-05.png"
         },
         {
             "name": "Edge",
