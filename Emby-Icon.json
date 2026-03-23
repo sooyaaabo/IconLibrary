@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-22 17:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-23 15:00",
     "icons": [
         {
             "name": "AList",
@@ -1605,6 +1605,10 @@
         {
             "name": "WenJian",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Wenjian-04.png"
+        },
+        {
+            "name": "WenJian",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Wenjian-05.png"
         },
         {
             "name": "WorldLine ShouShuShiJieXian",
