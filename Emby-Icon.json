@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-23 15:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-24 01:00",
     "icons": [
         {
             "name": "AList",
@@ -1427,6 +1427,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ShayuEmby-03.png"
         },
         {
+            "name": "ShaYu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ShayuEmby-04.png"
+        },
+        {
             "name": "Shrek",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ShrekEmby.png"
         },
@@ -1705,6 +1709,10 @@
         {
             "name": "YounoPlus",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YounoPlus-02.png"
+        },
+        {
+            "name": "YouQiBing YQB",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YouQiBing.png"
         },
         {
             "name": "YourFYTing FangYingTing",
