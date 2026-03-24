@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-24 10:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-24 16:00",
     "icons": [
         {
             "name": "AList",
@@ -464,7 +464,11 @@
         },
         {
             "name": "emos",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/emos.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/emos-01.png"
+        },
+        {
+            "name": "emos",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/emos-02.png"
         },
         {
             "name": "empn",
