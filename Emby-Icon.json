@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-24 16:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-25 01:00",
     "icons": [
         {
             "name": "AList",
@@ -1660,7 +1660,11 @@
         },
         {
             "name": "XYZ XiaoYiZi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby-01.png"
+        },
+        {
+            "name": "XYZ XiaoYiZi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/xyzemby-02.png"
         },
         {
             "name": "YeZi",
