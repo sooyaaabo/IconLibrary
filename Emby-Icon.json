@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-25 10:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-03-26 01:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -79,6 +79,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-02.png"
         },
         {
+            "name": "105°",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-03.png"
+        },
+        {
+            "name": "105°",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-04.png"
+        },
+        {
             "name": "404NotFound",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound.png"
         },
@@ -89,22 +97,6 @@
         {
             "name": "Aladdin ALaDing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AladdinEmby-02.png"
-        },
-        {
-            "name": "Alpha",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Alpha.png"
-        },
-        {
-            "name": "AlphaKid",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AlphaKid.png"
-        },
-        {
-            "name": "AlphaPro",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AlphaPro.png"
-        },
-        {
-            "name": "AlphaX",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AlphaX.png"
         },
         {
             "name": "AlphaTVOmega",
@@ -225,18 +217,6 @@
         {
             "name": "BuChiXiangCai BCXC",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-04.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-05.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-06.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-07.png"
         },
         {
             "name": "CC",
@@ -528,11 +508,7 @@
         },
         {
             "name": "FeiYueYinHe YHEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe-01.png"
-        },
-        {
-            "name": "FeiYueYinHe YHEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe.png"
         },
         {
             "name": "FJY",
@@ -611,10 +587,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloBlock-06.png"
         },
         {
-            "name": "HelloBlock Ryan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloBlock-07.png"
-        },
-        {
             "name": "Hello NiHao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-01.png"
         },
@@ -664,11 +636,7 @@
         },
         {
             "name": "ichinosekotomifan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ichinosekotomifan-01.png"
-        },
-        {
-            "name": "ichinosekotomifan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ichinosekotomifan-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ichinosekotomifan.png"
         },
         {
             "name": "ikun",
@@ -757,10 +725,6 @@
         {
             "name": "Kiku",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KikuEmby-02.png"
-        },
-        {
-            "name": "Kiku",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/KikuEmby-03.png"
         },
         {
             "name": "KL",
