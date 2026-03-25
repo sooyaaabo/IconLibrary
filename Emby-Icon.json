@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo 更新时间：2026-03-25 01:00",
+    "description": "作者：sooyaaabo 更新时间：2026-03-25 10:00",
     "icons": [
         {
             "name": "AList",
@@ -457,6 +457,18 @@
         {
             "name": "EmbyPlus ZhiPianRen",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPlus-03.png"
+        },
+        {
+            "name": "EmbyPlus ZhiPianRen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPlus-04.png"
+        },
+        {
+            "name": "EmbyPlus ZhiPianRen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPlus-05.png"
+        },
+        {
+            "name": "EmbyPlus ZhiPianRen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPlus-06.png"
         },
         {
             "name": "EmbyPub ZhongDianZhan ZDZ",
