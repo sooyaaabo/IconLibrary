@@ -17,7 +17,7 @@
 
 1. **App** - 收录 App Store 等平台内的应用程序图标。
 
-2. **Emby** - 专为 Emby 媒体服务器设计的图标集合。
+2. **Emby** - 专为 Emby 媒体服务器设计的图标集合。本项目中的部分图标来源于或基于[TFEL-Emby图标库](https://emby-icon.vercel.app/TFEL-Emby.json)二次创作，感谢原作者[@TFEL](https://t.me/TFEL000)的贡献，特此说明。
 
 3. **Flag** - 包含各国国旗及其他标志性旗帜图标。
 
