@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-03-27 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-03-28 22:30｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -551,6 +551,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HandouEmby-02.png"
         },
         {
+            "name": "HanDou",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HandouEmby-03.png"
+        },
+        {
             "name": "HardMoon YingYue",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HardMoon.png"
         },
@@ -585,6 +589,22 @@
         {
             "name": "Hello NiHao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-02.png"
+        },
+        {
+            "name": "Hello NiHao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-03.png"
+        },
+        {
+            "name": "Hello NiHao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-04.png"
+        },
+        {
+            "name": "Hello NiHao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-05.png"
+        },
+        {
+            "name": "Hello NiHao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloEmby-06.png"
         },
         {
             "name": "HG",
