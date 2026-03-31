@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-03-30 22:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-03-31 18:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -249,6 +249,10 @@
         {
             "name": "CC",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CcEmby-02.png"
+        },
+        {
+            "name": "ChaCanTing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChaCanTing.png"
         },
         {
             "name": "CharonTV KaRong",
@@ -796,7 +800,7 @@
         },
         {
             "name": "LaoYouJi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Laoyouji.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LaoYouJi.png"
         },
         {
             "name": "Le",
@@ -825,6 +829,14 @@
         {
             "name": "LevildeLuminia",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LevildeLuminia-04.png"
+        },
+        {
+            "name": "LightingTime ShiGuang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LightingTime-01.png"
+        },
+        {
+            "name": "LightingTime ShiGuang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LightingTime-02.png"
         },
         {
             "name": "Lily",
@@ -879,32 +891,20 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalPro-02.png"
         },
         {
-            "name": "Luxrealm",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Luxrealm-01.png"
-        },
-        {
-            "name": "Luxrealm",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Luxrealm-02.png"
-        },
-        {
-            "name": "LXS",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LXSEmby.png"
-        },
-        {
             "name": "LiuLi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuliEmby.png"
         },
         {
             "name": "LiuYingShe",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Liuyingshe-01.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuYingShe-01.png"
         },
         {
             "name": "LiuYingShe",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Liuyingshe-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuYingShe-02.png"
         },
         {
             "name": "LiuYingShe",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Liuyingshe-03.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuYingShe-03.png"
         },
         {
             "name": "Long",
@@ -929,6 +929,18 @@
         {
             "name": "LustfulBoy",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LustfulBoy-02.png"
+        },
+        {
+            "name": "Luxrealm",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Luxrealm-01.png"
+        },
+        {
+            "name": "Luxrealm",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Luxrealm-02.png"
+        },
+        {
+            "name": "LXS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LXSEmby.png"
         },
         {
             "name": "Lyrebird",
@@ -1331,6 +1343,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-05.png"
         },
         {
+            "name": "PornEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PornEmby.png"
+        },
+        {
             "name": "PrejuDice",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PrejuDiceEmby.png"
         },
@@ -1365,6 +1381,10 @@
         {
             "name": "QingNingYingHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingNingYingHua-04.png"
+        },
+        {
+            "name": "QingShuiYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingShuiYingHua.png"
         },
         {
             "name": "qmseee",
@@ -1676,11 +1696,11 @@
         },
         {
             "name": "XiaoXiaMi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Xiami-01.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-01.png"
         },
         {
             "name": "XiaoXiaMi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Xiami-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-02.png"
         },
         {
             "name": "XiaoZhuXuan",
@@ -1720,11 +1740,11 @@
         },
         {
             "name": "YiMeng",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yimeng.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiMeng.png"
         },
         {
             "name": "YiShang",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yishang.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiShang.png"
         },
         {
             "name": "Yomo",
@@ -1776,23 +1796,23 @@
         },
         {
             "name": "YueZhiXuan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yuezhixuan-01.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YueZhiXuan-01.png"
         },
         {
             "name": "YueZhiXuan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yuezhixuan-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YueZhiXuan-02.png"
         },
         {
             "name": "YueZhiXuan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yuezhixuan-03.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YueZhiXuan-03.png"
         },
         {
             "name": "YueZhiXuan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yuezhixuan-04.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YueZhiXuan-04.png"
         },
         {
             "name": "YueZhiXuan",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Yuezhixuan-05.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YueZhiXuan-05.png"
         },
         {
             "name": "Yum",
@@ -1809,6 +1829,14 @@
         {
             "name": "ZhouSanWan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhouSanWan-03.png"
+        },
+        {
+            "name": "ZhuJiuYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuJiuYingHua.png"
+        },
+        {
+            "name": "ZhuMaYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuMaYingHua.png"
         },
         {
             "name": "Zn",
