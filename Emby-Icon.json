@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-03-31 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-02 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -71,19 +71,35 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png"
         },
         {
-            "name": "105°",
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DIYEmby-01.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DIYEmby-02.png"
+        },
+        {
+            "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-01.png"
         },
         {
-            "name": "105°",
+            "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-02.png"
         },
         {
-            "name": "105°",
+            "name": "105° Ciallo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-01.png"
+        },
+        {
+            "name": "105° Ciallo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-02.png"
+        },
+        {
+            "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-03.png"
         },
         {
-            "name": "105°",
+            "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-04.png"
         },
         {
