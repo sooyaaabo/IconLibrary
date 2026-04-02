@@ -1,6 +1,6 @@
 {
     "name": "恩秀Other图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-03-26 01:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-02 09:00",
     "icons": [
         {
             "name": "sooyaaabo",
@@ -73,6 +73,10 @@
         {
             "name": "ShieldReject",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/ShieldReject.png"
+        },
+        {
+            "name": "Anti-DNS-Leaks",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Anti-DNS-Leaks.png"
         },
         {
             "name": "iOS",
