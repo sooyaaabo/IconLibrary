@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-03 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-03 11:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -261,6 +261,10 @@
         {
             "name": "BuChiXiangCai BCXC",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-04.png"
+        },
+        {
+            "name": "CatCat MaoMao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CatCatEmby.png"
         },
         {
             "name": "CC",
@@ -939,6 +943,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongEmby.png"
         },
         {
+            "name": "LongPorn",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongPorn.png"
+        },
+        {
             "name": "Loser 1111",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-01.png"
         },
@@ -1045,6 +1053,10 @@
         {
             "name": "Meowfly FeiLeGeMiao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Meowfly-05.png"
+        },
+        {
+            "name": "MICU",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MICU.png"
         },
         {
             "name": "Mirai",
