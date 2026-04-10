@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-10 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-11 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1321,6 +1321,10 @@
         {
             "name": "OrigamiArt ZheZhi",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-03.png"
+        },
+        {
+            "name": "OrigamiArt ZheZhi",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-04.png"
         },
         {
             "name": "PandaTV XiongMao",
