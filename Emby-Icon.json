@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-10 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-10 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -356,7 +356,19 @@
         },
         {
             "name": "Coolgua",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Coolgua.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Coolgua-01.png"
+        },
+        {
+            "name": "Coolgua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Coolgua-02.png"
+        },
+        {
+            "name": "Coolgua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Coolgua-03.png"
+        },
+        {
+            "name": "Coolgua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Coolgua-04.png"
         },
         {
             "name": "dada",
@@ -693,6 +705,10 @@
         {
             "name": "HuaLu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HualuEmby-02.png"
+        },
+        {
+            "name": "hx-emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/hx-emby.png"
         },
         {
             "name": "ichinosekotomifan",
