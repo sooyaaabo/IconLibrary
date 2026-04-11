@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-11 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-12 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1171,6 +1171,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby-02.png"
         },
         {
+            "name": "Msky",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby-03.png"
+        },
+        {
+            "name": "Msky",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MskyEmby-04.png"
+        },
+        {
             "name": "MWP FengYueGe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MWPEmby-01.png"
         },
@@ -1511,6 +1519,22 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-04.png"
         },
         {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-05.png"
+        },
+        {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-06.png"
+        },
+        {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-07.png"
+        },
+        {
+            "name": "Roc",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RocEmby-08.png"
+        },
+        {
             "name": "RuJi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/RujiEmby-01.png"
         },
@@ -1721,6 +1745,14 @@
         {
             "name": "TheLuYuan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TheLuYuan-02.png"
+        },
+        {
+            "name": "ToToRo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ToToRo-01.png"
+        },
+        {
+            "name": "ToToRo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ToToRo-02.png"
         },
         {
             "name": "TreeDiagram",
