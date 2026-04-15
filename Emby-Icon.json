@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-12 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-15 13:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1063,6 +1063,22 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MeatHub.png"
         },
         {
+            "name": "ME BAVA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEBAVA-01.png"
+        },
+        {
+            "name": "ME BAVA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEBAVA-02.png"
+        },
+        {
+            "name": "ME BAVA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEBAVA-03.png"
+        },
+        {
+            "name": "ME BAVA",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEBAVA-04.png"
+        },
+        {
             "name": "ME",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MEEmby-01.png"
         },
@@ -1841,6 +1857,14 @@
         {
             "name": "XiaoXiaMi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-02.png"
+        },
+        {
+            "name": "XiaoXiaMi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-03.png"
+        },
+        {
+            "name": "XiaoXiaMi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-04.png"
         },
         {
             "name": "XiaoZhuXuan",
