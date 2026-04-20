@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-05 21:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-20 12:00",
     "icons": [
         {
             "name": "Loon",
@@ -217,10 +217,6 @@
         {
             "name": "ooapps",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ooapps.png"
-        },
-        {
-            "name": "iios_store",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iios_store.png"
         },
         {
             "name": "AppStore",
@@ -1032,7 +1028,15 @@
         },
         {
             "name": "Apple",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Apple.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Apple-01.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Apple-02.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Apple-03.png"
         },
         {
             "name": "Microsoft",
