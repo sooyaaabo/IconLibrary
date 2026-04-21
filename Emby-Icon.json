@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-20 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-21 17:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -987,10 +987,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalPro-02.png"
         },
         {
-            "name": "LingYu",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LingYu.png"
-        },
-        {
             "name": "LiuLi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuliEmby.png"
         },
@@ -1133,6 +1129,18 @@
         {
             "name": "MengDie",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MengDie.png"
+        },
+        {
+            "name": "LingYu MengGongChang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MengGongChang-01.png"
+        },
+        {
+            "name": "LingYu MengGongChang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MengGongChang-02.png"
+        },
+        {
+            "name": "LingYu MengGongChang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MengGongChang-03.png"
         },
         {
             "name": "Meowfly FeiLeGeMiao",
