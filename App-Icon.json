@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-20 12:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-04-23 19:00",
     "icons": [
         {
             "name": "Loon",
@@ -1121,6 +1121,10 @@
         {
             "name": "MiniMax",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MiniMax.png"
+        },
+        {
+            "name": "Ciii",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ciii.png"
         },
         {
             "name": "InternetExplorer",
