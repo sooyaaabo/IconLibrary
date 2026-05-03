@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-04-23 19:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-03 16:00",
     "icons": [
         {
             "name": "Loon",
@@ -839,6 +839,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Reflix-02.png"
         },
         {
+            "name": "Vidora",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Vidora.png"
+        },
+        {
+            "name": "SenPlayer",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SenPlayer.png"
+        },
+        {
             "name": "yybx",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/yybx.png"
         },
@@ -868,7 +876,23 @@
         },
         {
             "name": "EplayerX",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/EplayerX.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/EplayerX-01.png"
+        },
+        {
+            "name": "EplayerX",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/EplayerX-02.png"
+        },
+        {
+            "name": "AGC Player",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AGCPlayer.png"
+        },
+        {
+            "name": "CapyPlayer",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CapyPlayer.png"
+        },
+        {
+            "name": "DS One",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DSOne.png"
         },
         {
             "name": "Cinemore",
