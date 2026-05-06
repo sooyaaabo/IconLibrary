@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-06 12:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-06 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1067,6 +1067,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiminalPro-02.png"
         },
         {
+            "name": "LingChe",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LingcheEmby.png"
+        },
+        {
             "name": "LiuLi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiuliEmby.png"
         },
@@ -1084,7 +1088,11 @@
         },
         {
             "name": "LiXiangGuo",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiXiangGuo.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiXiangGuo-01.png"
+        },
+        {
+            "name": "LiXiangGuo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LiXiangGuo-02.png"
         },
         {
             "name": "Long",
@@ -1652,7 +1660,11 @@
         },
         {
             "name": "QingShuiYingHua",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingShuiYingHua.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingShuiYingHua-01.png"
+        },
+        {
+            "name": "QingShuiYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingShuiYingHua-02.png"
         },
         {
             "name": "QingYueXuan LeWa",
@@ -2196,11 +2208,19 @@
         },
         {
             "name": "ZhuJiuYingHua",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuJiuYingHua.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuJiuYingHua-01.png"
+        },
+        {
+            "name": "ZhuJiuYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuJiuYingHua-02.png"
         },
         {
             "name": "ZhuMaYingHua",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuMaYingHua.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuMaYingHua-01.png"
+        },
+        {
+            "name": "ZhuMaYingHua",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhuMaYingHua-02.png"
         },
         {
             "name": "Zn",
