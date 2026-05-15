@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-14 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-15 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1251,6 +1251,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MICU.png"
         },
         {
+            "name": "Miorina",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Miorina.png"
+        },
+        {
             "name": "Mirai",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MiraiEmby-01.png"
         },
@@ -2225,6 +2229,10 @@
         {
             "name": "Yum",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YumEmby.png"
+        },
+        {
+            "name": "YuSen",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YusenEmby.png"
         },
         {
             "name": "ZhenYing",
