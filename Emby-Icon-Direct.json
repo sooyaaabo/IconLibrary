@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-20 21:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-20 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -2049,6 +2049,22 @@
         {
             "name": "Violet ZiLuoLan",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/VioletEmby.png"
+        },
+        {
+            "name": "Walnut",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WalnutEmby-01.png"
+        },
+        {
+            "name": "Walnut",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WalnutEmby-02.png"
+        },
+        {
+            "name": "Walnut",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WalnutEmby-03.png"
+        },
+        {
+            "name": "Walnut",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WalnutEmby-04.png"
         },
         {
             "name": "We",
