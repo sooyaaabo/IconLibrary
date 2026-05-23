@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-21 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-23 12:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1479,6 +1479,22 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NiuBi-04.png"
         },
         {
+            "name": "Nox",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-01.png"
+        },
+        {
+            "name": "Nox",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-02.png"
+        },
+        {
+            "name": "Nox",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-03.png"
+        },
+        {
+            "name": "Nox",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-04.png"
+        },
+        {
             "name": "NSFW",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NSFWEmby-01.png"
         },
@@ -1789,6 +1805,10 @@
         {
             "name": "SadChick BeiShangXiaoJi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SadChick-02.png"
+        },
+        {
+            "name": "SakuraChiritei YingLuoTing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SakuraChiritei.png"
         },
         {
             "name": "SaoDu",
