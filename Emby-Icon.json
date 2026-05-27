@@ -95,10 +95,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-04.png"
         },
         {
-            "name": "AI",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AiEmby.png"
-        },
-        {
             "name": "404NotFound",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-01.png"
         },
@@ -117,6 +113,10 @@
         {
             "name": "404NotFound",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-05.png"
+        },
+        {
+            "name": "AI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AiEmby.png"
         },
         {
             "name": "Aladdin ALaDing",
