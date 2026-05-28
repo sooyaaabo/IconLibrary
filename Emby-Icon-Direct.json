@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-27 21:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-28 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -247,14 +247,6 @@
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBFreeFilm.png"
         },
         {
-            "name": "BTYIN EFu",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-01.png"
-        },
-        {
-            "name": "BTYIN EFu",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-02.png"
-        },
-        {
             "name": "BuChiXiangCai BCXC",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-01.png"
         },
@@ -269,6 +261,18 @@
         {
             "name": "BuChiXiangCai BCXC",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-04.png"
+        },
+        {
+            "name": "BTYIN EFu",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-01.png"
+        },
+        {
+            "name": "BTYIN EFu",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-02.png"
+        },
+        {
+            "name": "BuBingYingDi",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BuBingYingDi.png"
         },
         {
             "name": "CatCat MaoMao",
