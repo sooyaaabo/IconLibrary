@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-05-28 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-05-31 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -47,8 +47,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OneDrive.png"
         },
         {
-            "name": "PikPak",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PikPak.png"
+            "name": "QuarkCloudDrive",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QuarkCloudDrive.png"
         },
         {
             "name": "fnOS",
@@ -117,14 +117,6 @@
         {
             "name": "AI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AiEmby.png"
-        },
-        {
-            "name": "Aladdin ALaDing",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AladdinEmby-01.png"
-        },
-        {
-            "name": "Aladdin ALaDing",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AladdinEmby-02.png"
         },
         {
             "name": "AlphaTVOmega",
@@ -247,22 +239,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBFreeFilm.png"
         },
         {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-01.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-02.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-03.png"
-        },
-        {
-            "name": "BuChiXiangCai BCXC",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BCXC-04.png"
-        },
-        {
             "name": "BTYIN EFu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-01.png"
         },
@@ -315,15 +291,15 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Cherry-03.png"
         },
         {
-            "name": "ChilledMelon XiGua DaiGua",
+            "name": "ChilledMelon BingZhenXiGua DaiGua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChilledMelon-01.png"
         },
         {
-            "name": "ChilledMelon XiGua DaiGua",
+            "name": "ChilledMelon BingZhenXiGua DaiGua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChilledMelon-02.png"
         },
         {
-            "name": "ChilledMelon XiGua DaiGua",
+            "name": "ChilledMelon BingZhenXiGua DaiGua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChilledMelon-03.png"
         },
         {
@@ -431,6 +407,26 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DanfuEmby.png"
         },
         {
+            "name": "DEC BCXC BuChiXiangCai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DECEmby-01.png"
+        },
+        {
+            "name": "DEC BCXC BuChiXiangCai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DECEmby-02.png"
+        },
+        {
+            "name": "DEC BCXC BuChiXiangCai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DECEmby-03.png"
+        },
+        {
+            "name": "DEC BCXC BuChiXiangCai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DECEmby-04.png"
+        },
+        {
+            "name": "DEC BCXC BuChiXiangCai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DECEmby-05.png"
+        },
+        {
             "name": "ShenYeShiTang",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DeepEmby-01.png"
         },
@@ -451,7 +447,7 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DeepEmby-05.png"
         },
         {
-            "name": "DimLight",
+            "name": "DimLight WeiGuang",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DimLight.png"
         },
         {
@@ -515,23 +511,23 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EBSEmby-02.png"
         },
         {
-            "name": "EchoFlix",
+            "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-01.png"
         },
         {
-            "name": "EchoFlix",
+            "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-02.png"
         },
         {
-            "name": "EchoFlix",
+            "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-03.png"
         },
         {
-            "name": "EchoFlix",
+            "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-04.png"
         },
         {
-            "name": "EchoFlix",
+            "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-05.png"
         },
         {
@@ -835,6 +831,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HualuEmby-02.png"
         },
         {
+            "name": "hx-emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/hx-emby.png"
+        },
+        {
             "name": "HXD",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HXDEmby-01.png"
         },
@@ -845,10 +845,6 @@
         {
             "name": "HXD",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HXDEmby-03.png"
-        },
-        {
-            "name": "hx-emby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/hx-emby.png"
         },
         {
             "name": "ichinosekotomifan",
@@ -1483,19 +1479,19 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NiuBi-04.png"
         },
         {
-            "name": "Nox",
+            "name": "NOX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-01.png"
         },
         {
-            "name": "Nox",
+            "name": "NOX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-02.png"
         },
         {
-            "name": "Nox",
+            "name": "NOX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-03.png"
         },
         {
-            "name": "Nox",
+            "name": "NOX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NoxEmby-04.png"
         },
         {
@@ -1827,10 +1823,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaoDuLite.png"
         },
         {
-            "name": "SaturDayLite+ SDL+",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite+.png"
-        },
-        {
             "name": "SaturDayLite SDL",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-01.png"
         },
@@ -1845,6 +1837,10 @@
         {
             "name": "SaturDayLite SDL",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite-04.png"
+        },
+        {
+            "name": "SaturDayLite+ SDL+",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SaturDayLite+.png"
         },
         {
             "name": "SaturDayNext SDN",
