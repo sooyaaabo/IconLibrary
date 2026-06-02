@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-01 22:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-02 21:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1031,6 +1031,18 @@
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LevildeLuminia-04.png"
         },
         {
+            "name": "LeWa",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LewaMovie-01.png"
+        },
+        {
+            "name": "LeWa",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LewaMovie-02.png"
+        },
+        {
+            "name": "LeWa",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LewaMovie-03.png"
+        },
+        {
             "name": "LightingTime ShiGuang",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LightingTime-01.png"
         },
@@ -1757,18 +1769,6 @@
         {
             "name": "QingShuiYingHua",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingShuiYingHua-02.png"
-        },
-        {
-            "name": "QingYueXuan LeWa",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingYueXuan-01.png"
-        },
-        {
-            "name": "QingYueXuan LeWa",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingYueXuan-02.png"
-        },
-        {
-            "name": "QingYueXuan LeWa",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/QingYueXuan-03.png"
         },
         {
             "name": "qmseee",
