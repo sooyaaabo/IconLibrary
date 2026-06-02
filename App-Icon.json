@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-02 09:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-02 12:00",
     "icons": [
         {
             "name": "Loon",
@@ -1153,6 +1153,10 @@
         {
             "name": "Sub2API",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Sub2API.png"
+        },
+        {
+            "name": "NewAPI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NewAPI.png"
         },
         {
             "name": "InternetExplorer",
