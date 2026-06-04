@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-03 01:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-04 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1183,6 +1183,10 @@
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LunarisVault-06.png"
         },
         {
+            "name": "LunarisVault",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LunarisVault-07.png"
+        },
+        {
             "name": "LustfulBoy",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LustfulBoy-01.png"
         },
@@ -1221,6 +1225,10 @@
         {
             "name": "Lyrebird",
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Lyrebird-05.png"
+        },
+        {
+            "name": "Magpie XiQue",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Magpie.png"
         },
         {
             "name": "MaoWoYingShi",
