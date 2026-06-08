@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-02 12:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-08 12:00",
     "icons": [
         {
             "name": "Loon",
@@ -1076,7 +1076,11 @@
         },
         {
             "name": "ChatGPT OpenAI",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChatGPT.png"
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChatGPT-01.png"
+        },
+        {
+            "name": "ChatGPT OpenAI",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChatGPT-02.png"
         },
         {
             "name": "Gemini",
@@ -1091,8 +1095,16 @@
             "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MicrosoftCopilot.png"
         },
         {
+            "name": " Anthropic",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ Anthropic.png"
+        },
+        {
             "name": "Claude",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Claude.png"
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Claude-01.png"
+        },
+        {
+            "name": "Claude",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Claude-02.png"
         },
         {
             "name": "Perplexity",
