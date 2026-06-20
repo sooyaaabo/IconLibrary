@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-17 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-20 19:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -656,7 +656,27 @@
         },
         {
             "name": "FeiYueYinHe YHEmby",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe-01.png"
+        },
+        {
+            "name": "FeiYueYinHe YHEmby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe-02.png"
+        },
+        {
+            "name": "Fiti",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Fiti.png"
+        },
+        {
+            "name": "Fiti",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FitiPro.png"
+        },
+        {
+            "name": "Fiti",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FitiProCDN.png"
+        },
+        {
+            "name": "Fiti",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FitiProOversea.png"
         },
         {
             "name": "FJY",
