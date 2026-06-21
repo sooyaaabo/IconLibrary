@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-21 12:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-21 19:00",
     "icons": [
         {
             "name": "Loon",
@@ -1248,7 +1248,11 @@
         },
         {
             "name": "Binance",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Binance.png"
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Binance-01.png"
+        },
+        {
+            "name": "Binance",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Binance-02.png"
         },
         {
             "name": "OKX",
@@ -1260,7 +1264,11 @@
         },
         {
             "name": "Bitcoin",
-            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Bitcoin.png"
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Bitcoin-01.png"
+        },
+        {
+            "name": "Bitcoin",
+            "url": "https://git.103516.xyz/https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Bitcoin-02.png"
         },
         {
             "name": "Coinbase",
