@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-08 12:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-21 12:00",
     "icons": [
         {
             "name": "Loon",
@@ -1161,6 +1161,10 @@
         {
             "name": "Ciii",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ciii.png"
+        },
+        {
+            "name": "UnlimitedAI",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/UnlimitedAI.png"
         },
         {
             "name": "Sub2API",
