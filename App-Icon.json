@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-21 19:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-06-24 22:00",
     "icons": [
         {
             "name": "Loon",
@@ -361,6 +361,10 @@
         {
             "name": "ThunderCloudDisk XunLei",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ThunderCloudDisk.png"
+        },
+        {
+            "name": "GuangYa",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GuangyaPan.png"
         },
         {
             "name": "FeijiPan XiaoFeiJiWangPan",
