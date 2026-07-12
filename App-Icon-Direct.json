@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-24 22:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-07-12 21:00",
     "icons": [
         {
             "name": "Loon",
@@ -647,6 +647,10 @@
             "url": "https://icon.103516.xyz/App/iCost.png"
         },
         {
+            "name": "GoogleMail",
+            "url": "https://icon.103516.xyz/App/GoogleMail.png"
+        },
+        {
             "name": "SparkMail",
             "url": "https://icon.103516.xyz/App/SparkMail-01.png"
         },
@@ -1088,11 +1092,7 @@
         },
         {
             "name": "Gemini",
-            "url": "https://icon.103516.xyz/App/GoogleGemini-01.png"
-        },
-        {
-            "name": "Gemini",
-            "url": "https://icon.103516.xyz/App/GoogleGemini-02.png"
+            "url": "https://icon.103516.xyz/App/GoogleGemini.png"
         },
         {
             "name": "MicrosoftCopilot",

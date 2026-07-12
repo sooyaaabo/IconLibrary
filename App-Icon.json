@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-06-24 22:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-07-12 21:00",
     "icons": [
         {
             "name": "Loon",
@@ -647,6 +647,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iCost.png"
         },
         {
+            "name": "GoogleMail",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleMail.png"
+        },
+        {
             "name": "SparkMail",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SparkMail-01.png"
         },
@@ -1088,11 +1092,7 @@
         },
         {
             "name": "Gemini",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini-01.png"
-        },
-        {
-            "name": "Gemini",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemini-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GoogleGemin.png"
         },
         {
             "name": "MicrosoftCopilot",
