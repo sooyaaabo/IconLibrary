@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-07-06 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-07-13 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -981,6 +981,10 @@
         {
             "name": "July",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/JulyEmby-03.png"
+        },
+        {
+            "name": "JuYing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/JuYing.png"
         },
         {
             "name": "KFCV50",
