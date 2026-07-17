@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-07-17 01:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-07-17 09:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -780,7 +780,11 @@
         },
         {
             "name": "GuiXianWu",
-            "url": "https://icon.103516.xyz/Emby/GuiXianWu.png"
+            "url": "https://icon.103516.xyz/Emby/GuiXianWu-01.png"
+        },
+        {
+            "name": "GuiXianWu",
+            "url": "https://icon.103516.xyz/Emby/GuiXianWu-02.png"
         },
         {
             "name": "HaiRiWan HaiRiBay",
