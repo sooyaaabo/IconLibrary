@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-07-29 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-01 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1487,16 +1487,20 @@
             "url": "https://icon.103516.xyz/Emby/MisakaF.png"
         },
         {
-            "name": "MisayaMedia",
+            "name": "Misaya",
             "url": "https://icon.103516.xyz/Emby/MisayaMedia-01.png"
         },
         {
-            "name": "MisayaMedia",
+            "name": "Misaya",
             "url": "https://icon.103516.xyz/Emby/MisayaMedia-02.png"
         },
         {
-            "name": "MisayaMedia",
+            "name": "Misaya",
             "url": "https://icon.103516.xyz/Emby/MisayaMedia-03.png"
+        },
+        {
+            "name": "Misaya",
+            "url": "https://icon.103516.xyz/Emby/MisayaMedia-04.png"
         },
         {
             "name": "Misty",
