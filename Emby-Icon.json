@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-03 17:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-03 19:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -245,6 +245,10 @@
         {
             "name": "BBFreeFilm BeeBI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBFreeFilm.png"
+        },
+        {
+            "name": "BB",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBQAQEmby.png"
         },
         {
             "name": "BTYIN EFu",
@@ -1761,6 +1765,10 @@
         {
             "name": "OrigamiArt ZheZhi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-06.png"
+        },
+        {
+            "name": "Overcooked",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OvercookedMedia.png"
         },
         {
             "name": "Own",
