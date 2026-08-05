@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-05 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-05 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -159,44 +159,48 @@
             "url": "https://icon.103516.xyz/Emby/AniSaga-04.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-01.png"
+            "name": "AshMedia",
+            "url": "https://icon.103516.xyz/Emby/AshMedia.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-02.png"
+            "name": "Ask",
+            "url": "https://icon.103516.xyz/Emby/Ask.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-03.png"
+            "name": "AskAsh",
+            "url": "https://icon.103516.xyz/Emby/AskAsh-01.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-04.png"
+            "name": "AskAsh",
+            "url": "https://icon.103516.xyz/Emby/AskAsh-02.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-05.png"
+            "name": "AskAsh",
+            "url": "https://icon.103516.xyz/Emby/AskAsh-03.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-06.png"
+            "name": "AskPremium",
+            "url": "https://icon.103516.xyz/Emby/AskPremium.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-07.png"
+            "name": "AskUltra",
+            "url": "https://icon.103516.xyz/Emby/AskUltra.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-08.png"
+            "name": "AskBot",
+            "url": "https://icon.103516.xyz/Emby/AskBot-01.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-09.png"
+            "name": "AskBot",
+            "url": "https://icon.103516.xyz/Emby/AskBot-02.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://icon.103516.xyz/Emby/AskUniversal-10.png"
+            "name": "AskBot",
+            "url": "https://icon.103516.xyz/Emby/AskBot-03.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://icon.103516.xyz/Emby/AskBot-04.png"
         },
         {
             "name": "Asuka",

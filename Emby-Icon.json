@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-05 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-05 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -159,44 +159,48 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AniSaga-04.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-01.png"
+            "name": "AshMedia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AshMedia.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-02.png"
+            "name": "Ask",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Ask.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-03.png"
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskAsh-01.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-04.png"
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskAsh-02.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-05.png"
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskAsh-03.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-06.png"
+            "name": "AskPremium",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskPremium.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-07.png"
+            "name": "AskUltra",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUltra.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-08.png"
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskBot-01.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-09.png"
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskBot-02.png"
         },
         {
-            "name": "AskUniversal",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskUniversal-10.png"
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskBot-03.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AskBot-04.png"
         },
         {
             "name": "Asuka",
