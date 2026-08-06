@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-06 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-06 17:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1549,6 +1549,14 @@
         {
             "name": "Misty+",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Misty+.png"
+        },
+        {
+            "name": "MiXueBingCheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MixueEmby-01.png"
+        },
+        {
+            "name": "MiXueBingCheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MixueEmby-02.png"
         },
         {
             "name": "MoLi",
