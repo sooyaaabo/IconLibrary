@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-10 01:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-11 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -91,10 +91,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-03.png"
         },
         {
-            "name": "105° Ciallo",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-04.png"
-        },
-        {
             "name": "404NotFound",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-01.png"
         },
@@ -117,6 +113,10 @@
         {
             "name": "AI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AiEmby.png"
+        },
+        {
+            "name": "ALittleTea YiDianDian",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ALittleTea.png"
         },
         {
             "name": "AlphaTVOmega",
@@ -371,14 +371,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-02.png"
         },
         {
-            "name": "CineTrail YingJi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-03.png"
-        },
-        {
-            "name": "CineTrail YingJi",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-04.png"
-        },
-        {
             "name": "ClimbHigh DengGao",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ClimbHigh-01.png"
         },
@@ -409,10 +401,6 @@
         {
             "name": "Cookie",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CookieEmby-02.png"
-        },
-        {
-            "name": "Cookie",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CookieEmby-03.png"
         },
         {
             "name": "Coolgua",
@@ -627,10 +615,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPlus-06.png"
         },
         {
-            "name": "EmbyPub Terminus ZhongDianZhan ZDZ",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EmbyPub.png"
-        },
-        {
             "name": "emos",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/emos-01.png"
         },
@@ -785,6 +769,14 @@
         {
             "name": "GeeTV",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GeeTV-04.png"
+        },
+        {
+            "name": "Genshin JieShuYueDui",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Genshin-01.png"
+        },
+        {
+            "name": "Genshin JieShuYueDui",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Genshin-02.png"
         },
         {
             "name": "GIDD JiDao",
@@ -1947,26 +1939,6 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlumberEmby-06.png"
         },
         {
-            "name": "PlusEmby JieShuYueDui",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-01.png"
-        },
-        {
-            "name": "PlusEmby JieShuYueDui",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-02.png"
-        },
-        {
-            "name": "PlusEmby JieShuYueDui",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-03.png"
-        },
-        {
-            "name": "PlusEmby JieShuYueDui",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-04.png"
-        },
-        {
-            "name": "PlusEmby JieShuYueDui",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PlusEmby-05.png"
-        },
-        {
             "name": "Polaris BeiJiXing",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Polaris-01.png"
         },
@@ -2333,6 +2305,10 @@
         {
             "name": "Temby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Temby.png"
+        },
+        {
+            "name": "Terminus ZhongDianZhan ZDZ",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Terminus.png"
         },
         {
             "name": "TFTV",
