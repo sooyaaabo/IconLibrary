@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-07-12 21:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-15 15:00",
     "icons": [
         {
             "name": "Loon",
@@ -105,6 +105,18 @@
         {
             "name": "PharosPro",
             "url": "https://icon.103516.xyz/App/PharosPro.png"
+        },
+        {
+            "name": "AnywhereProxy",
+            "url": "https://icon.103516.xyz/App/AnywhereProxy.png"
+        },
+        {
+            "name": "EverywhereProxy",
+            "url": "https://icon.103516.xyz/App/EverywhereProxy.png"
+        },
+        {
+            "name": "Nextin",
+            "url": "https://icon.103516.xyz/App/Nextin.png"
         },
         {
             "name": "Hiddify",
