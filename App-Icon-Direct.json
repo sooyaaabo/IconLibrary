@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-15 15:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-08-17 17:00",
     "icons": [
         {
             "name": "Loon",
@@ -469,6 +469,10 @@
         {
             "name": "ShiHuo",
             "url": "https://icon.103516.xyz/App/Shihuo.png"
+        },
+        {
+            "name": "AiHuiShou",
+            "url": "https://icon.103516.xyz/App/AiHuiShou.png"
         },
         {
             "name": "CaiNiao",
