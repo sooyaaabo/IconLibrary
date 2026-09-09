@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-08 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-09 12:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -2323,11 +2323,19 @@
             "url": "https://icon.103516.xyz/Emby/StevenEmby.png"
         },
         {
-            "name": "TanHuaTV",
+            "name": "SuiShiPaoLu",
+            "url": "https://icon.103516.xyz/Emby/SuiShiPaoLu-01.png"
+        },
+        {
+            "name": "SuiShiPaoLu",
+            "url": "https://icon.103516.xyz/Emby/SuiShiPaoLu-02.png"
+        },
+        {
+            "name": "TanHua",
             "url": "https://icon.103516.xyz/Emby/TanhuaTV-01.png"
         },
         {
-            "name": "TanHuaTV",
+            "name": "TanHua",
             "url": "https://icon.103516.xyz/Emby/TanhuaTV-02.png"
         },
         {
