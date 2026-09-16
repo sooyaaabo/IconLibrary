@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-14 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-16 08:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -395,12 +395,8 @@
             "url": "https://icon.103516.xyz/Emby/ClimbHigh-02.png"
         },
         {
-            "name": "Cloud YunShang",
-            "url": "https://icon.103516.xyz/Emby/CloudEmby-01.png"
-        },
-        {
-            "name": "Cloud YunShang",
-            "url": "https://icon.103516.xyz/Emby/CloudEmby-02.png"
+            "name": "Cloud",
+            "url": "https://icon.103516.xyz/Emby/CloudEmby.png"
         },
         {
             "name": "CoCo",
@@ -1853,6 +1849,10 @@
         {
             "name": "OK",
             "url": "https://icon.103516.xyz/Emby/OkEmby-03.png"
+        },
+        {
+            "name": "OnCloud YunShang",
+            "url": "https://icon.103516.xyz/Emby/OnCloudEmby.png"
         },
         {
             "name": "Onyra",
