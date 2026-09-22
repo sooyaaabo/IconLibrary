@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-21 22:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-22 10:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -2377,6 +2377,10 @@
         {
             "name": "Tdck QiDianZhan",
             "url": "https://icon.103516.xyz/Emby/TdckEmby-02.png"
+        },
+        {
+            "name": "TeaBag ChaBao",
+            "url": "https://icon.103516.xyz/Emby/TeaBagEmby.png"
         },
         {
             "name": "TeCar",
