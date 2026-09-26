@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-24 16:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-26 20:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -340,7 +340,11 @@
         },
         {
             "name": "ChenCheng",
-            "url": "https://icon.103516.xyz/Emby/ChenCheng.png"
+            "url": "https://icon.103516.xyz/Emby/ChenCheng-01.png"
+        },
+        {
+            "name": "ChenCheng",
+            "url": "https://icon.103516.xyz/Emby/ChenCheng-02.png"
         },
         {
             "name": "Cherry YingTao",
@@ -1144,7 +1148,11 @@
         },
         {
             "name": "KiTi",
-            "url": "https://icon.103516.xyz/Emby/KiTiEmby.png"
+            "url": "https://icon.103516.xyz/Emby/KiTiEmby-01.png"
+        },
+        {
+            "name": "KiTi",
+            "url": "https://icon.103516.xyz/Emby/KiTiEmby-02.png"
         },
         {
             "name": "KL",
