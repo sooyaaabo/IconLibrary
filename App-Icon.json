@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-27 20:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-27 21:00",
     "icons": [
         {
             "name": "Loon",
@@ -1383,6 +1383,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Swiftgram.png"
         },
         {
+            "name": "Nagram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Nagram.png"
+        },
+        {
             "name": "iMe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iMe.png"
         },
@@ -1405,6 +1409,14 @@
         {
             "name": "Lingogram",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Lingogram.png"
+        },
+        {
+            "name": "exteraGram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/exteraGram-01.png"
+        },
+        {
+            "name": "exteraGram",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/exteraGram-02.png"
         },
         {
             "name": "AyuGram",
