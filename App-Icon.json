@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-08-24 10:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-27 20:00",
     "icons": [
         {
             "name": "Loon",
@@ -951,6 +951,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MediaPlayer.png"
         },
         {
+            "name": "QuarkCloudDrivePlayer",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkCloudDrivePlayer.png"
+        },
+        {
             "name": "MediaStorm",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MediaStorm.png"
         },
@@ -1225,6 +1229,10 @@
         {
             "name": "Arc Search",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ArcSearch-02.png"
+        },
+        {
+            "name": "Dia",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Dia.png"
         },
         {
             "name": "Genspark",
