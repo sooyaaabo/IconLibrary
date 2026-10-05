@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-27 21:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-05 15:00",
     "icons": [
         {
             "name": "Loon",
@@ -673,6 +673,10 @@
         {
             "name": "FenBi",
             "url": "https://icon.103516.xyz/App/FenBi.png"
+        },
+        {
+            "name": "ChaoGeJiaoYu",
+            "url": "https://icon.103516.xyz/App/ChaoGeJiaoYu.png"
         },
         {
             "name": "iCost",
