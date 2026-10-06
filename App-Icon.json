@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-05 15:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-06 16:00",
     "icons": [
         {
             "name": "Loon",
@@ -941,6 +941,22 @@
         {
             "name": "Cinemore",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Cinemore.png"
+        },
+        {
+            "name": "CinePlayer",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CinePlayer.png"
+        },
+        {
+            "name": "Prismo",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Prismo.png"
+        },
+        {
+            "name": "Rex",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Rex.png"
+        },
+        {
+            "name": "BeeJoy",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BeeJoy.png"
         },
         {
             "name": "Hills",
