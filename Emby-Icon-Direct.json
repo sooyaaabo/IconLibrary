@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-04 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-07 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -1799,8 +1799,8 @@
             "url": "https://icon.103516.xyz/Emby/NebulaMedia-08.png"
         },
         {
-            "name": "NextNewEP Ember",
-            "url": "https://icon.103516.xyz/Emby/NextNewEP.png"
+            "name": "Ember NextNewEP",
+            "url": "https://icon.103516.xyz/Emby/EmberEmby.png"
         },
         {
             "name": "Nice",
