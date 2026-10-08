@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-07 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-09 07:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -565,6 +565,14 @@
         {
             "name": "DreamWorks MengGongChang",
             "url": "https://icon.103516.xyz/Emby/DreamWorks-05.png"
+        },
+        {
+            "name": "Drivemby",
+            "url": "https://icon.103516.xyz/Emby/Drivemby-01.png"
+        },
+        {
+            "name": "Drivemby",
+            "url": "https://icon.103516.xyz/Emby/Drivemby-02.png"
         },
         {
             "name": "Dusky",
@@ -1621,6 +1629,10 @@
         {
             "name": "Milk SiJi",
             "url": "https://icon.103516.xyz/Emby/MilkEmby-02.png"
+        },
+        {
+            "name": "Milk SiJi",
+            "url": "https://icon.103516.xyz/Emby/MilkEmby-03.png"
         },
         {
             "name": "Miorina",
