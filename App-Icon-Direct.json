@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-12 11:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-14 10:00",
     "icons": [
         {
             "name": "Loon",
@@ -437,6 +437,10 @@
         {
             "name": "HelloBike HaLuo",
             "url": "https://icon.103516.xyz/App/HelloBike-03.png"
+        },
+        {
+            "name": "CheLaiLe",
+            "url": "https://icon.103516.xyz/App/CheLaiLe.png"
         },
         {
             "name": "WeiBo",
