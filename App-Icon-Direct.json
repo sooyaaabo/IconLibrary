@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-14 10:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-16 16:00",
     "icons": [
         {
             "name": "Loon",
@@ -276,11 +276,35 @@
         },
         {
             "name": "AppleSiri",
-            "url": "https://icon.103516.xyz/App/AppleSiri.png"
+            "url": "https://icon.103516.xyz/App/AppleSiri-01.png"
+        },
+        {
+            "name": "AppleSiri",
+            "url": "https://icon.103516.xyz/App/AppleSiri-02.png"
+        },
+        {
+            "name": "AppleSiriAI",
+            "url": "https://icon.103516.xyz/App/AppleSiriAI-01.png"
+        },
+        {
+            "name": "AppleSiriAI",
+            "url": "https://icon.103516.xyz/App/AppleSiriAI-02.png"
+        },
+        {
+            "name": "AppleSiriAI",
+            "url": "https://icon.103516.xyz/App/AppleSiriAI-03.png"
         },
         {
             "name": "AppleIntelligence",
-            "url": "https://icon.103516.xyz/App/AppleIntelligence.png"
+            "url": "https://icon.103516.xyz/App/AppleIntelligence-01.png"
+        },
+        {
+            "name": "AppleIntelligence",
+            "url": "https://icon.103516.xyz/App/AppleIntelligence-02.png"
+        },
+        {
+            "name": "AppleIntelligence",
+            "url": "https://icon.103516.xyz/App/AppleIntelligence-03.png"
         },
         {
             "name": "ChinaMobile CMCC",
