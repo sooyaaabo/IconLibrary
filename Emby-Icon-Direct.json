@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-18 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-21 01:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -348,23 +348,23 @@
         },
         {
             "name": "ChenCheng",
-            "url": "https://icon.103516.xyz/Emby/ChenCheng-01.png"
+            "url": "https://icon.103516.xyz/Emby/ChenchengEmby-01.png"
         },
         {
             "name": "ChenCheng",
-            "url": "https://icon.103516.xyz/Emby/ChenCheng-02.png"
+            "url": "https://icon.103516.xyz/Emby/ChenchengEmby-02.png"
         },
         {
             "name": "ChenYu",
-            "url": "https://icon.103516.xyz/Emby/ChenYu-01.png"
+            "url": "https://icon.103516.xyz/Emby/ChenyuEmby-01.png"
         },
         {
             "name": "ChenYu",
-            "url": "https://icon.103516.xyz/Emby/ChenYu-02.png"
+            "url": "https://icon.103516.xyz/Emby/ChenyuEmby-02.png"
         },
         {
             "name": "ChenYu",
-            "url": "https://icon.103516.xyz/Emby/ChenYu-03.png"
+            "url": "https://icon.103516.xyz/Emby/ChenyuEmby-03.png"
         },
         {
             "name": "Cherry YingTao",
@@ -2837,6 +2837,14 @@
         {
             "name": "Yum",
             "url": "https://icon.103516.xyz/Emby/YumEmby.png"
+        },
+        {
+            "name": "YunXi",
+            "url": "https://icon.103516.xyz/Emby/YunxiEmby-01.png"
+        },
+        {
+            "name": "YunXi",
+            "url": "https://icon.103516.xyz/Emby/YunxiEmby-02.png"
         },
         {
             "name": "YuSen",
