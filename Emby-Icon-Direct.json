@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-21 15:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-10-28 12:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -117,6 +117,10 @@
         {
             "name": "404NotFound",
             "url": "https://icon.103516.xyz/Emby/404NotFound-06.png"
+        },
+        {
+            "name": "9527",
+            "url": "https://icon.103516.xyz/Emby/9527Emby.png"
         },
         {
             "name": "AI",
