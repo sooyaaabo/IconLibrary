@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-16 16:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-11-01 21:00",
     "icons": [
         {
             "name": "Loon",
@@ -825,6 +825,10 @@
         {
             "name": "Bilibili",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BiliUniverse.png"
+        },
+        {
+            "name": "TencentSports",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentSports.png"
         },
         {
             "name": "IQIYI_Ssports",
