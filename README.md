@@ -27,7 +27,6 @@
 
 1. **App 图标库**
 -  原始链接：https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App-Icon.json
--  直连链接：https://icon.103516.xyz/App-Icon-Direct.json
    
 2. **Emby 图标库**
 -  原始链接：https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json
@@ -35,7 +34,6 @@
    
 3. **Flag 图标库**
 -  原始链接：https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Flag-Icon.json
--  直连链接：https://icon.103516.xyz/Flag-Icon-Direct.json
 
 
 ## 机场推荐
