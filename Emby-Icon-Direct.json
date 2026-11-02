@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-31 00:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-11-02 21:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -120,7 +120,11 @@
         },
         {
             "name": "9527",
-            "url": "https://icon.103516.xyz/Emby/9527Emby.png"
+            "url": "https://icon.103516.xyz/Emby/9527Emby-01.png"
+        },
+        {
+            "name": "9527",
+            "url": "https://icon.103516.xyz/Emby/9527Emby-02.png"
         },
         {
             "name": "AI",
@@ -541,6 +545,10 @@
         {
             "name": "DimLight WeiGuang",
             "url": "https://icon.103516.xyz/Emby/DimLight.png"
+        },
+        {
+            "name": "Dolphin HaiTun",
+            "url": "https://icon.103516.xyz/Emby/DolphinEmby.png"
         },
         {
             "name": "Doubon",
