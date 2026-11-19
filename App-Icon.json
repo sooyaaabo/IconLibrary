@@ -1,6 +1,6 @@
 {
     "name": "恩秀App图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-11-02 21:00",
+    "description": "作者：sooyaaabo｜更新时间：2026-11-19 19:00",
     "icons": [
         {
             "name": "Loon",
@@ -465,6 +465,18 @@
         {
             "name": "CheLaiLe",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CheLaiLe.png"
+        },
+        {
+            "name": "Ninebot JiuHaoChuXing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ninebot-01.png"
+        },
+        {
+            "name": "Ninebot JiuHaoChuXing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ninebot-02.png"
+        },
+        {
+            "name": "Ninebot JiuHaoChuXing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ninebot-03.png"
         },
         {
             "name": "WeiBo",
